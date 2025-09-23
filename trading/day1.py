@@ -331,12 +331,12 @@ class BinomialStrategy:
         )
      
         self.average_score_home_team = (
-            float(home_team_score) / home_team_attempted
+            float(home_team_score) / home_team_shots_made
             if home_team_attempted > 0
             else 0.0
         )
         self.average_score_away_team = (
-            float(away_team_score) / away_team_attempted
+            float(away_team_score) / away_team_shots_made
             if away_team_attempted > 0
             else 0.0
         )
@@ -436,7 +436,7 @@ class BinomialStrategy:
                     prob_y = binom.cdf(y_max, n_y, p_y)
 
             prob += px * prob_y
-
+        #print(f"P_X:{p_x}  ,    P_Y:{p_y},  A:{a},  B:{b},  NX:{n_x},   NY:{n_y},   score_diff:{score_diff}\n")
        
         return float(min(1.0, max(0.0, prob)))
 
@@ -630,7 +630,7 @@ class Strategy:
             place_market_order(Side.SELL,Ticker.TEAM_A,1)
             print("------------------------------------\n")
             print(f'Sell order placed at price = {best_bid_price}, volume = {1}\n')
-        elif self.ob.asks and self.ob.asks[0].price>estimate-threshold:
+        elif self.ob.asks and self.ob.asks[0].price<estimate-threshold:
             best_ask_price= self.ob.asks[0].price
             best_ask_volume=self.ob.asks[0].quantity
             place_market_order(Side.BUY,Ticker.TEAM_A,1)
