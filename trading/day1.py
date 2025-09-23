@@ -379,10 +379,10 @@ class BinomialStrategy:
         )
 
         self.average_score_home_team = (
-            float(home_team_score) / home_team_attempted if home_team_attempted > 0 else 0.0
+            float(home_team_score) / home_team_shots_made if home_team_shots_made > 0 else 0.0
         )
         self.average_score_away_team = (
-            float(away_team_score) / away_team_attempted if away_team_attempted > 0 else 0.0
+            float(away_team_score) / away_team_shots_made if away_team_shots_made > 0 else 0.0
         )
 
         self.home_team_future_attempt = self._compute_future_attempts(
