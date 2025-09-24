@@ -265,10 +265,15 @@ class OrderBook:
 class Portfolio:
     def __init__(self, starting_capital: float):
         self.capital = starting_capital
-        self.positions = {}  # Ticker -> quantity
+        self.position = 0 # Price -> quantity
+        self.avg_buy_price = 0
+        self.avg_sell_price = 0
     def rst_state(self,starting_capital):
-        self.capital = starting_capital
-        self.positions = {}
+        self.position = 0 # Price -> quantity
+        self.avg_buy_price = 0
+        self.bought_qty = 0
+        self.sold_qty = 0
+        self.avg_sell_price = 0
     def update_position(self, ticker: Ticker, side: Side, quantity: float, price: float):
         """
         Update positions and capital after a trade.
@@ -277,31 +282,19 @@ class Portfolio:
         price: trade price
         """
         # Update positions
-        current_qty = self.positions.get(ticker, 0)
+        current_qty = self.position
         if side == Side.BUY:
-            self.positions[ticker] = current_qty + quantity
+            self.position = current_qty + quantity
+            self.avg_buy_price =( (self.bought_qty*self.avg_buy_price) + (quantity*price))/(self.bought_qty+quantity)
+            self.bought_qty += quantity
             self.capital -= quantity * price
         elif side == Side.SELL:
-            self.positions[ticker] = current_qty - quantity
-            self.capital += quantity * price
-
-    def get_position(self, ticker: Ticker) -> float:
-        return self.positions.get(ticker, 0)
-
-    def get_portfolio_value(self, market_prices: dict) -> float:
-        """
-        market_prices: dict of Ticker -> current market price
-        Returns total value = cash + value of positions
-        """
-        value = self.capital
-        for ticker, qty in self.positions.items():
-            value += qty * market_prices.get(ticker, 0)
-        return value
-
+            self.position = current_qty - quantity
+            self.avg_sell_price =( (self.sell_qty*self.avg_sell_price) + (quantity*price))/(self.sold_qty+quantity)
+            self.sold_qty += quantity
+            self.capital -= quantity * price
     def __repr__(self):
-        pos_str = ", ".join(f"{t.name}: {q}" for t, q in self.positions.items())
-        return f"Portfolio(Capital: {self.capital}, Positions: {pos_str})"
-
+        return f"Portfolio(Capital: {self.capital}, Positions: {self.position}, Sold_qty: {self.sold_qty}, Avg_sell_Price:{self.avg_sell_price}, Bought_qty:{self.bought_qty},Avg Bought Price:{self.avg_buy_price})"
 # theoretical price calculation
 import numpy as np
 import numpy as np
@@ -574,8 +567,41 @@ class Strategy:
             """
             self.ob.update_on_snapshot(bids,asks)
             return
+    
+    def trade_binom(self,estimate,threshold,confidence):
+        current_pos=self.portfolio.position
+        avg_buy_price=self.portfolio.avg_buy_price
+        avg_sell_price=self.portfolio.avg_sell_price
+        if self.ob.asks:
+            best_ask=self.ob.asks[0].price
+            best_ask_qaunt=self.ob.asks[0].quantity
+        else:
+            best_ask=estimate
+            best_ask_qaunt=0
+        if self.ob.bids:
+            best_bid=self.ob.bids[0].price
+            best_bid_qaunt=self.ob.bids[0].quantity
+        else:
+            best_bid=estimate
+            best_ask_qaunt=0
+        #CHECKING TO SEE IF WE ARE OVERLOADED
+        if current_pos>confidence:
+            place_market_order(Side.SELL,Ticker.TEAM_A,current_pos-confidence)
+        elif current_pos<-confidence:
+            place_market_order(Side.BUY,Ticker.TEAM_A,-current_pos-confidence)
+        else:
+            if best_bid<estimate-threshold:
+                place_market_order(Side.BUY,Ticker.TEAM_A,5)
+            elif best_ask>estimate+threshold:
+                place_market_order(Side.SELL,Ticker.TEAM_A,5)
+            else:
+                if best_bid<estimate-2:
+                    place_limit_order(Side.BUY,Ticker.TEAM_A,1,best_bid+1,ioc=True)
+                if best_ask>estimate+2:
+                    place_limit_order(Side.SELL,Ticker.TEAM_A,1,best_ask-1)
+        return 
 
-
+    
     def on_game_event_update(self,
                            event_type: str,
                            home_away: str,
@@ -632,11 +658,10 @@ class Strategy:
         event["coordinate_y"]=coordinate_y
         event["time_seconds"]=time_seconds
         self.game.update_history(event)
-        shot_attempted_home=sum(self.game.home.shots_attempted.values())
-        shot_attempted_away=sum(self.game.away.shots_attempted.values())
+        shot_attempted_home=sum(self.game.home.shots_attempted.values())+self.game.home.blocks
+        shot_attempted_away=sum(self.game.away.shots_attempted.values())+self.game.away.blocks
         shots_made_home=sum(self.game.home.shots_made.values())
         shots_made_away=sum(self.game.away.shots_made.values())
-
 
         self.binom_strat.prob_update(self.game.init_time-time_seconds,
                                      time_seconds,
@@ -648,20 +673,31 @@ class Strategy:
                                      self.game.away.points)
         estimate=100*self.binom_strat.home_team_win_prob(int(self.game.home.points),int(self.game.away.points))
         threshold=5
+        confidence=10
         print(f'{time_seconds}::{event_type} {home_score} - {away_score}::Estimate::{estimate}')
-
-        if self.ob.bids and self.ob.bids[0].price>estimate+threshold:
-            best_bid_price = self.ob.bids[0].price
-            best_bid_volume = self.ob.bids[0].quantity
-            place_market_order(Side.SELL,Ticker.TEAM_A,1)
-            print("------------------------------------\n")
-            print(f'Sell order placed at price = {best_bid_price}, volume = {1}\n')
-        elif self.ob.asks and self.ob.asks[0].price<estimate-threshold:
-            best_ask_price= self.ob.asks[0].price
-            best_ask_volume=self.ob.asks[0].quantity
-            place_market_order(Side.BUY,Ticker.TEAM_A,1)
-            print("------------------------------------\n")
-            print(f'Buy order placed at price = {best_ask_price}, volume = {1}\n')     
+        self.trade_binom(estimate,threshold,confidence)
+        # if self.ob.bids and self.ob.bids[0].price>estimate+threshold:
+        #     best_bid_price = self.ob.bids[0].price
+        #     best_bid_volume = self.ob.bids[0].quantity
+        #     place_market_order(Side.SELL,Ticker.TEAM_A,1)
+        #     print("------------------------------------\n")
+        #     print(f'Sell order placed at price = {best_bid_price}, volume = {1}\n')
+        # elif self.ob.asks and self.ob.asks[0].price<estimate-threshold:
+        #     best_ask_price= self.ob.asks[0].price
+        #     best_ask_volume=self.ob.asks[0].quantity
+        #     place_market_order(Side.BUY,Ticker.TEAM_A,1)
+        #     print("------------------------------------\n")
+        #     print(f'Buy order placed at price = {best_ask_price}, volume = {1}\n') 
+        # elif self.ob.bids and self.ob.asks:
+        #     best_bid_price = self.ob.bids[0].price
+        #     best_bid_volume = self.ob.bids[0].quantity
+        #     best_ask_price= self.ob.asks[0].price
+        #     best_ask_volume=self.ob.asks[0].quantity
+        #     mid_price=(best_ask_price+best_bid_price)//2
+        #     if estimate>mid_price+1:
+        #         place_limit_order(Side.BUY,Ticker.TEAM_A,1,best_bid_price+1,ioc=True)
+        #     elif estimate<mid_price-1:
+        #         place_limit_order(Side.SELL,Ticker.TEAM_A,1,best_ask_price-1,ioc=True)
         if event_type == "END_GAME":
             # IMPORTANT: Highly recommended to call reset_state() when the
             # game ends. See reset_state() for more details.
