@@ -1,0 +1,904 @@
+time_remaining=2880.0
+home_fouls: 0, away_fouls: 0
+time_remaining=2880.0
+home_fouls: 0, away_fouls: 0
+time_remaining=2869.0
+home_fouls: 0, away_fouls: 0
+time_remaining=2868.0
+home_fouls: 0, away_fouls: 0
+time_remaining=2857.0
+home_fouls: 0, away_fouls: 0
+time_remaining=2838.0
+home_fouls: 0, away_fouls: 0
+time_remaining=2817.0
+home_fouls: 0, away_fouls: 0
+time_remaining=2805.0
+home_fouls: 0, away_fouls: 0
+time_remaining=2805.0
+home_fouls: 0, away_fouls: 0
+time_remaining=2805.0
+home_fouls: 1, away_fouls: 0
+time_remaining=2792.0
+home_fouls: 1, away_fouls: 0
+time_remaining=2790.0
+home_fouls: 1, away_fouls: 0
+time_remaining=2772.0
+home_fouls: 1, away_fouls: 0
+time_remaining=2771.0
+home_fouls: 1, away_fouls: 0
+time_remaining=2767.0
+home_fouls: 1, away_fouls: 0
+time_remaining=2755.0
+home_fouls: 1, away_fouls: 1
+time_remaining=2755.0
+home_fouls: 1, away_fouls: 1
+time_remaining=2755.0
+home_fouls: 1, away_fouls: 1
+time_remaining=2755.0
+home_fouls: 1, away_fouls: 1
+time_remaining=2737.0
+home_fouls: 1, away_fouls: 1
+time_remaining=2729.0
+home_fouls: 1, away_fouls: 1
+time_remaining=2710.0
+home_fouls: 1, away_fouls: 1
+time_remaining=2708.0
+home_fouls: 1, away_fouls: 1
+time_remaining=2697.0
+home_fouls: 1, away_fouls: 1
+time_remaining=2687.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2681.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2681.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2674.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2652.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2646.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2636.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2621.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2600.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2591.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2574.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2574.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2570.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2555.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2555.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2550.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2548.0
+home_fouls: 2, away_fouls: 1
+time_remaining=2544.0
+home_fouls: 2, away_fouls: 2
+time_remaining=2527.0
+home_fouls: 2, away_fouls: 2
+time_remaining=2516.0
+home_fouls: 3, away_fouls: 2
+time_remaining=2505.0
+home_fouls: 3, away_fouls: 2
+time_remaining=2497.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2497.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2497.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2497.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2478.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2478.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2469.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2467.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2465.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2439.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2424.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2422.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2409.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2409.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2403.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2403.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2389.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2388.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2380.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2358.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2349.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2349.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2333.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2307.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2307.0
+home_fouls: 3, away_fouls: 3
+time_remaining=2307.0
+home_fouls: 3, away_fouls: 4
+time_remaining=2296.0
+home_fouls: 3, away_fouls: 4
+time_remaining=2278.0
+home_fouls: 3, away_fouls: 4
+time_remaining=2277.0
+home_fouls: 3, away_fouls: 4
+time_remaining=2269.0
+home_fouls: 3, away_fouls: 4
+time_remaining=2269.0
+home_fouls: 3, away_fouls: 4
+time_remaining=2263.0
+home_fouls: 3, away_fouls: 4
+time_remaining=2255.0
+home_fouls: 3, away_fouls: 4
+time_remaining=2241.0
+home_fouls: 3, away_fouls: 4
+time_remaining=2237.0
+home_fouls: 4, away_fouls: 4
+time_remaining=2237.0
+home_fouls: 4, away_fouls: 4
+time_remaining=2237.0
+home_fouls: 4, away_fouls: 4
+time_remaining=2237.0
+home_fouls: 4, away_fouls: 4
+time_remaining=2237.0
+home_fouls: 4, away_fouls: 4
+time_remaining=2222.0
+home_fouls: 4, away_fouls: 4
+time_remaining=2221.0
+home_fouls: 4, away_fouls: 4
+time_remaining=2209.5
+home_fouls: 4, away_fouls: 5
+time_remaining=2209.5
+home_fouls: 4, away_fouls: 5
+time_remaining=2209.5
+home_fouls: 4, away_fouls: 5
+time_remaining=2209.5
+home_fouls: 4, away_fouls: 5
+time_remaining=2196.3
+home_fouls: 5, away_fouls: 5
+time_remaining=2196.3
+home_fouls: 5, away_fouls: 5
+time_remaining=2189.9
+home_fouls: 5, away_fouls: 5
+time_remaining=2165.9
+home_fouls: 5, away_fouls: 5
+time_remaining=2164.9
+home_fouls: 5, away_fouls: 5
+time_remaining=2161.4
+home_fouls: 5, away_fouls: 5
+time_remaining=2160.9
+home_fouls: 5, away_fouls: 5
+time_remaining=2160.5
+home_fouls: 5, away_fouls: 5
+time_remaining=2160.2
+home_fouls: 5, away_fouls: 5
+time_remaining=2160.0
+home_fouls: 5, away_fouls: 5
+time_remaining=2160.0
+home_fouls: 5, away_fouls: 5
+time_remaining=2148.0
+home_fouls: 5, away_fouls: 5
+time_remaining=2147.0
+home_fouls: 5, away_fouls: 5
+time_remaining=2126.0
+home_fouls: 5, away_fouls: 6
+time_remaining=2126.0
+home_fouls: 5, away_fouls: 6
+time_remaining=2115.0
+home_fouls: 5, away_fouls: 6
+time_remaining=2097.0
+home_fouls: 5, away_fouls: 6
+time_remaining=2080.0
+home_fouls: 5, away_fouls: 6
+time_remaining=2078.0
+home_fouls: 5, away_fouls: 6
+time_remaining=2072.0
+home_fouls: 5, away_fouls: 6
+time_remaining=2067.0
+home_fouls: 6, away_fouls: 6
+time_remaining=2067.0
+home_fouls: 6, away_fouls: 6
+time_remaining=2067.0
+home_fouls: 6, away_fouls: 6
+time_remaining=2067.0
+home_fouls: 6, away_fouls: 6
+time_remaining=2067.0
+home_fouls: 6, away_fouls: 6
+time_remaining=2067.0
+home_fouls: 6, away_fouls: 6
+time_remaining=2054.0
+home_fouls: 7, away_fouls: 6
+time_remaining=2054.0
+home_fouls: 7, away_fouls: 6
+time_remaining=2054.0
+home_fouls: 7, away_fouls: 6
+time_remaining=2050.0
+home_fouls: 7, away_fouls: 6
+time_remaining=2043.0
+home_fouls: 7, away_fouls: 6
+time_remaining=2032.0
+home_fouls: 7, away_fouls: 6
+time_remaining=2032.0
+home_fouls: 7, away_fouls: 6
+time_remaining=2017.0
+home_fouls: 8, away_fouls: 6
+time_remaining=2017.0
+home_fouls: 8, away_fouls: 6
+time_remaining=2017.0
+home_fouls: 8, away_fouls: 6
+time_remaining=2017.0
+home_fouls: 8, away_fouls: 6
+time_remaining=2001.0
+home_fouls: 8, away_fouls: 7
+time_remaining=2001.0
+home_fouls: 8, away_fouls: 7
+time_remaining=1991.0
+home_fouls: 8, away_fouls: 7
+time_remaining=1969.0
+home_fouls: 8, away_fouls: 7
+time_remaining=1953.0
+home_fouls: 8, away_fouls: 7
+time_remaining=1930.0
+home_fouls: 8, away_fouls: 7
+time_remaining=1924.0
+home_fouls: 8, away_fouls: 7
+time_remaining=1916.0
+home_fouls: 8, away_fouls: 7
+time_remaining=1910.0
+home_fouls: 9, away_fouls: 7
+time_remaining=1910.0
+home_fouls: 9, away_fouls: 7
+time_remaining=1910.0
+home_fouls: 9, away_fouls: 7
+time_remaining=1910.0
+home_fouls: 9, away_fouls: 7
+time_remaining=1901.0
+home_fouls: 9, away_fouls: 8
+time_remaining=1888.0
+home_fouls: 9, away_fouls: 8
+time_remaining=1886.0
+home_fouls: 9, away_fouls: 8
+time_remaining=1871.0
+home_fouls: 9, away_fouls: 8
+time_remaining=1871.0
+home_fouls: 9, away_fouls: 8
+time_remaining=1869.0
+home_fouls: 9, away_fouls: 8
+time_remaining=1856.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1856.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1856.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1850.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1850.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1848.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1828.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1820.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1820.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1796.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1794.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1790.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1779.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1779.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1773.0
+home_fouls: 9, away_fouls: 9
+time_remaining=1756.0
+home_fouls: 9, away_fouls: 10
+time_remaining=1756.0
+home_fouls: 9, away_fouls: 10
+time_remaining=1756.0
+home_fouls: 9, away_fouls: 10
+time_remaining=1756.0
+home_fouls: 9, away_fouls: 10
+time_remaining=1743.0
+home_fouls: 9, away_fouls: 10
+time_remaining=1728.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1728.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1728.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1713.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1713.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1691.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1691.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1678.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1677.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1675.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1674.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1668.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1644.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1643.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1637.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1618.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1609.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1608.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1593.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1592.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1591.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1589.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1587.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1585.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1566.0
+home_fouls: 9, away_fouls: 11
+time_remaining=1563.0
+home_fouls: 9, away_fouls: 12
+time_remaining=1563.0
+home_fouls: 9, away_fouls: 12
+time_remaining=1563.0
+home_fouls: 9, away_fouls: 12
+time_remaining=1563.0
+home_fouls: 9, away_fouls: 12
+time_remaining=1563.0
+home_fouls: 9, away_fouls: 12
+time_remaining=1550.0
+home_fouls: 10, away_fouls: 12
+time_remaining=1550.0
+home_fouls: 10, away_fouls: 12
+time_remaining=1550.0
+home_fouls: 10, away_fouls: 12
+time_remaining=1550.0
+home_fouls: 10, away_fouls: 12
+time_remaining=1523.0
+home_fouls: 10, away_fouls: 12
+time_remaining=1499.2
+home_fouls: 10, away_fouls: 12
+time_remaining=1494.8
+home_fouls: 10, away_fouls: 12
+time_remaining=1475.9
+home_fouls: 10, away_fouls: 12
+time_remaining=1473.7
+home_fouls: 10, away_fouls: 12
+time_remaining=1467.9
+home_fouls: 10, away_fouls: 12
+time_remaining=1466.8
+home_fouls: 10, away_fouls: 12
+time_remaining=1442.2
+home_fouls: 10, away_fouls: 12
+time_remaining=1442.2
+home_fouls: 10, away_fouls: 12
+time_remaining=1442.2
+home_fouls: 10, away_fouls: 12
+time_remaining=1442.2
+home_fouls: 10, away_fouls: 12
+time_remaining=1440.0
+home_fouls: 10, away_fouls: 12
+time_remaining=1440.0
+home_fouls: 10, away_fouls: 12
+time_remaining=1440.0
+home_fouls: 10, away_fouls: 12
+time_remaining=1440.0
+home_fouls: 10, away_fouls: 12
+time_remaining=1421.0
+home_fouls: 10, away_fouls: 12
+time_remaining=1414.0
+home_fouls: 10, away_fouls: 13
+time_remaining=1406.0
+home_fouls: 10, away_fouls: 13
+time_remaining=1383.0
+home_fouls: 10, away_fouls: 14
+time_remaining=1383.0
+home_fouls: 10, away_fouls: 14
+time_remaining=1368.0
+home_fouls: 10, away_fouls: 14
+time_remaining=1368.0
+home_fouls: 10, away_fouls: 14
+time_remaining=1350.0
+home_fouls: 11, away_fouls: 14
+time_remaining=1350.0
+home_fouls: 11, away_fouls: 14
+time_remaining=1347.0
+home_fouls: 11, away_fouls: 14
+time_remaining=1346.0
+home_fouls: 11, away_fouls: 14
+time_remaining=1330.0
+home_fouls: 11, away_fouls: 14
+time_remaining=1328.0
+home_fouls: 11, away_fouls: 14
+time_remaining=1323.0
+home_fouls: 11, away_fouls: 14
+time_remaining=1304.0
+home_fouls: 11, away_fouls: 14
+time_remaining=1293.0
+home_fouls: 11, away_fouls: 14
+time_remaining=1275.0
+home_fouls: 11, away_fouls: 14
+time_remaining=1274.0
+home_fouls: 11, away_fouls: 14
+time_remaining=1274.0
+home_fouls: 11, away_fouls: 15
+time_remaining=1274.0
+home_fouls: 11, away_fouls: 15
+time_remaining=1249.0
+home_fouls: 11, away_fouls: 15
+time_remaining=1226.0
+home_fouls: 11, away_fouls: 15
+time_remaining=1206.0
+home_fouls: 11, away_fouls: 15
+time_remaining=1203.0
+home_fouls: 11, away_fouls: 15
+time_remaining=1194.0
+home_fouls: 11, away_fouls: 15
+time_remaining=1175.0
+home_fouls: 11, away_fouls: 15
+time_remaining=1160.0
+home_fouls: 12, away_fouls: 15
+time_remaining=1160.0
+home_fouls: 12, away_fouls: 15
+time_remaining=1160.0
+home_fouls: 12, away_fouls: 15
+time_remaining=1160.0
+home_fouls: 12, away_fouls: 15
+time_remaining=1160.0
+home_fouls: 12, away_fouls: 15
+time_remaining=1156.0
+home_fouls: 12, away_fouls: 16
+time_remaining=1149.0
+home_fouls: 12, away_fouls: 16
+time_remaining=1130.0
+home_fouls: 12, away_fouls: 16
+time_remaining=1130.0
+home_fouls: 12, away_fouls: 16
+time_remaining=1121.0
+home_fouls: 12, away_fouls: 16
+time_remaining=1104.0
+home_fouls: 12, away_fouls: 16
+time_remaining=1083.0
+home_fouls: 12, away_fouls: 17
+time_remaining=1068.0
+home_fouls: 12, away_fouls: 17
+time_remaining=1046.0
+home_fouls: 13, away_fouls: 17
+time_remaining=1046.0
+home_fouls: 13, away_fouls: 17
+time_remaining=1046.0
+home_fouls: 13, away_fouls: 17
+time_remaining=1033.0
+home_fouls: 13, away_fouls: 17
+time_remaining=1033.0
+home_fouls: 13, away_fouls: 17
+time_remaining=1033.0
+home_fouls: 13, away_fouls: 17
+time_remaining=1021.0
+home_fouls: 13, away_fouls: 18
+time_remaining=1021.0
+home_fouls: 13, away_fouls: 18
+time_remaining=1016.0
+home_fouls: 13, away_fouls: 18
+time_remaining=1014.0
+home_fouls: 13, away_fouls: 18
+time_remaining=1006.0
+home_fouls: 13, away_fouls: 18
+time_remaining=999.0
+home_fouls: 13, away_fouls: 18
+time_remaining=997.0
+home_fouls: 13, away_fouls: 18
+time_remaining=982.0
+home_fouls: 13, away_fouls: 18
+time_remaining=971.0
+home_fouls: 13, away_fouls: 18
+time_remaining=956.0
+home_fouls: 13, away_fouls: 18
+time_remaining=955.0
+home_fouls: 13, away_fouls: 18
+time_remaining=947.0
+home_fouls: 13, away_fouls: 18
+time_remaining=946.0
+home_fouls: 13, away_fouls: 18
+time_remaining=945.0
+home_fouls: 14, away_fouls: 18
+time_remaining=945.0
+home_fouls: 14, away_fouls: 18
+time_remaining=945.0
+home_fouls: 14, away_fouls: 18
+time_remaining=945.0
+home_fouls: 14, away_fouls: 18
+time_remaining=945.0
+home_fouls: 14, away_fouls: 18
+time_remaining=933.0
+home_fouls: 14, away_fouls: 18
+time_remaining=932.0
+home_fouls: 14, away_fouls: 18
+time_remaining=931.0
+home_fouls: 14, away_fouls: 18
+time_remaining=924.0
+home_fouls: 15, away_fouls: 18
+time_remaining=924.0
+home_fouls: 15, away_fouls: 18
+time_remaining=924.0
+home_fouls: 15, away_fouls: 18
+time_remaining=901.0
+home_fouls: 15, away_fouls: 18
+time_remaining=900.0
+home_fouls: 15, away_fouls: 18
+time_remaining=895.0
+home_fouls: 15, away_fouls: 18
+time_remaining=874.0
+home_fouls: 15, away_fouls: 18
+time_remaining=846.0
+home_fouls: 15, away_fouls: 18
+time_remaining=834.0
+home_fouls: 15, away_fouls: 19
+time_remaining=834.0
+home_fouls: 15, away_fouls: 19
+time_remaining=834.0
+home_fouls: 15, away_fouls: 19
+time_remaining=834.0
+home_fouls: 15, away_fouls: 19
+time_remaining=834.0
+home_fouls: 15, away_fouls: 19
+time_remaining=834.0
+home_fouls: 15, away_fouls: 19
+time_remaining=827.0
+home_fouls: 16, away_fouls: 19
+time_remaining=827.0
+home_fouls: 16, away_fouls: 19
+time_remaining=827.0
+home_fouls: 16, away_fouls: 19
+time_remaining=816.0
+home_fouls: 16, away_fouls: 19
+time_remaining=803.0
+home_fouls: 16, away_fouls: 19
+time_remaining=799.0
+home_fouls: 16, away_fouls: 20
+time_remaining=799.0
+home_fouls: 17, away_fouls: 20
+time_remaining=799.0
+home_fouls: 17, away_fouls: 20
+time_remaining=799.0
+home_fouls: 17, away_fouls: 20
+time_remaining=799.0
+home_fouls: 17, away_fouls: 21
+time_remaining=799.0
+home_fouls: 17, away_fouls: 21
+time_remaining=792.0
+home_fouls: 17, away_fouls: 21
+time_remaining=781.0
+home_fouls: 18, away_fouls: 21
+time_remaining=781.0
+home_fouls: 18, away_fouls: 21
+time_remaining=781.0
+home_fouls: 18, away_fouls: 21
+time_remaining=764.9
+home_fouls: 18, away_fouls: 21
+time_remaining=763.9
+home_fouls: 18, away_fouls: 21
+time_remaining=749.2
+home_fouls: 18, away_fouls: 21
+time_remaining=748.7
+home_fouls: 18, away_fouls: 21
+time_remaining=746.1
+home_fouls: 18, away_fouls: 21
+time_remaining=726.4
+home_fouls: 18, away_fouls: 21
+time_remaining=726.4
+home_fouls: 18, away_fouls: 21
+time_remaining=723.9
+home_fouls: 18, away_fouls: 21
+time_remaining=722.8
+home_fouls: 18, away_fouls: 21
+time_remaining=720.0
+home_fouls: 18, away_fouls: 21
+time_remaining=720.0
+home_fouls: 18, away_fouls: 21
+time_remaining=720.0
+home_fouls: 18, away_fouls: 21
+time_remaining=720.0
+home_fouls: 18, away_fouls: 21
+time_remaining=704.0
+home_fouls: 18, away_fouls: 21
+time_remaining=693.0
+home_fouls: 18, away_fouls: 21
+time_remaining=675.0
+home_fouls: 18, away_fouls: 21
+time_remaining=656.0
+home_fouls: 18, away_fouls: 21
+time_remaining=641.0
+home_fouls: 18, away_fouls: 21
+time_remaining=627.0
+home_fouls: 18, away_fouls: 21
+time_remaining=626.0
+home_fouls: 18, away_fouls: 21
+time_remaining=622.0
+home_fouls: 18, away_fouls: 21
+time_remaining=618.0
+home_fouls: 18, away_fouls: 21
+time_remaining=593.0
+home_fouls: 18, away_fouls: 21
+time_remaining=577.0
+home_fouls: 18, away_fouls: 22
+time_remaining=577.0
+home_fouls: 18, away_fouls: 22
+time_remaining=563.0
+home_fouls: 18, away_fouls: 23
+time_remaining=555.0
+home_fouls: 18, away_fouls: 23
+time_remaining=537.0
+home_fouls: 18, away_fouls: 23
+time_remaining=525.0
+home_fouls: 18, away_fouls: 23
+time_remaining=525.0
+home_fouls: 18, away_fouls: 23
+time_remaining=525.0
+home_fouls: 18, away_fouls: 23
+time_remaining=525.0
+home_fouls: 18, away_fouls: 23
+time_remaining=510.0
+home_fouls: 18, away_fouls: 23
+time_remaining=510.0
+home_fouls: 18, away_fouls: 23
+time_remaining=495.0
+home_fouls: 18, away_fouls: 23
+time_remaining=491.0
+home_fouls: 19, away_fouls: 23
+time_remaining=491.0
+home_fouls: 19, away_fouls: 23
+time_remaining=491.0
+home_fouls: 19, away_fouls: 23
+time_remaining=491.0
+home_fouls: 19, away_fouls: 23
+time_remaining=491.0
+home_fouls: 19, away_fouls: 23
+time_remaining=470.0
+home_fouls: 19, away_fouls: 23
+time_remaining=470.0
+home_fouls: 19, away_fouls: 23
+time_remaining=470.0
+home_fouls: 19, away_fouls: 24
+time_remaining=459.0
+home_fouls: 19, away_fouls: 24
+time_remaining=459.0
+home_fouls: 19, away_fouls: 24
+time_remaining=446.0
+home_fouls: 19, away_fouls: 24
+time_remaining=446.0
+home_fouls: 19, away_fouls: 24
+time_remaining=436.0
+home_fouls: 19, away_fouls: 24
+time_remaining=436.0
+home_fouls: 19, away_fouls: 24
+time_remaining=429.0
+home_fouls: 19, away_fouls: 24
+time_remaining=427.0
+home_fouls: 19, away_fouls: 24
+time_remaining=407.0
+home_fouls: 19, away_fouls: 24
+time_remaining=401.0
+home_fouls: 19, away_fouls: 24
+time_remaining=401.0
+home_fouls: 19, away_fouls: 24
+time_remaining=401.0
+home_fouls: 19, away_fouls: 24
+time_remaining=386.0
+home_fouls: 19, away_fouls: 24
+time_remaining=375.0
+home_fouls: 19, away_fouls: 24
+time_remaining=373.0
+home_fouls: 19, away_fouls: 24
+time_remaining=373.0
+home_fouls: 20, away_fouls: 24
+time_remaining=373.0
+home_fouls: 20, away_fouls: 24
+time_remaining=373.0
+home_fouls: 20, away_fouls: 24
+time_remaining=350.0
+home_fouls: 20, away_fouls: 24
+time_remaining=330.0
+home_fouls: 20, away_fouls: 24
+time_remaining=328.0
+home_fouls: 20, away_fouls: 24
+time_remaining=318.0
+home_fouls: 20, away_fouls: 25
+time_remaining=318.0
+home_fouls: 20, away_fouls: 26
+time_remaining=318.0
+home_fouls: 20, away_fouls: 26
+time_remaining=318.0
+home_fouls: 20, away_fouls: 26
+time_remaining=307.0
+home_fouls: 20, away_fouls: 26
+time_remaining=305.0
+home_fouls: 20, away_fouls: 26
+time_remaining=287.0
+home_fouls: 20, away_fouls: 26
+time_remaining=266.0
+home_fouls: 20, away_fouls: 26
+time_remaining=249.0
+home_fouls: 20, away_fouls: 26
+time_remaining=243.0
+home_fouls: 20, away_fouls: 27
+time_remaining=243.0
+home_fouls: 20, away_fouls: 27
+time_remaining=243.0
+home_fouls: 20, away_fouls: 27
+time_remaining=243.0
+home_fouls: 20, away_fouls: 27
+time_remaining=243.0
+home_fouls: 20, away_fouls: 27
+time_remaining=220.0
+home_fouls: 20, away_fouls: 27
+time_remaining=211.0
+home_fouls: 20, away_fouls: 28
+time_remaining=211.0
+home_fouls: 20, away_fouls: 28
+time_remaining=211.0
+home_fouls: 20, away_fouls: 28
+time_remaining=197.0
+home_fouls: 20, away_fouls: 28
+time_remaining=189.0
+home_fouls: 20, away_fouls: 28
+time_remaining=188.0
+home_fouls: 20, away_fouls: 28
+time_remaining=174.0
+home_fouls: 21, away_fouls: 28
+time_remaining=174.0
+home_fouls: 21, away_fouls: 28
+time_remaining=174.0
+home_fouls: 21, away_fouls: 28
+time_remaining=174.0
+home_fouls: 21, away_fouls: 28
+time_remaining=159.0
+home_fouls: 21, away_fouls: 28
+time_remaining=158.0
+home_fouls: 21, away_fouls: 28
+time_remaining=158.0
+home_fouls: 22, away_fouls: 28
+time_remaining=158.0
+home_fouls: 22, away_fouls: 28
+time_remaining=137.0
+home_fouls: 22, away_fouls: 28
+time_remaining=136.0
+home_fouls: 22, away_fouls: 28
+time_remaining=124.0
+home_fouls: 22, away_fouls: 29
+time_remaining=124.0
+home_fouls: 22, away_fouls: 29
+time_remaining=124.0
+home_fouls: 22, away_fouls: 29
+time_remaining=124.0
+home_fouls: 22, away_fouls: 29
+time_remaining=115.0
+home_fouls: 23, away_fouls: 29
+time_remaining=115.0
+home_fouls: 23, away_fouls: 29
+time_remaining=115.0
+home_fouls: 23, away_fouls: 29
+time_remaining=115.0
+home_fouls: 23, away_fouls: 29
+time_remaining=96.0
+home_fouls: 23, away_fouls: 30
+time_remaining=96.0
+home_fouls: 23, away_fouls: 30
+time_remaining=96.0
+home_fouls: 23, away_fouls: 30
+time_remaining=96.0
+home_fouls: 23, away_fouls: 30
+time_remaining=83.0
+home_fouls: 23, away_fouls: 30
+time_remaining=76.0
+home_fouls: 23, away_fouls: 30
+time_remaining=64.0
+home_fouls: 23, away_fouls: 30
+time_remaining=61.0
+home_fouls: 23, away_fouls: 30
+time_remaining=50.9
+home_fouls: 23, away_fouls: 30
+time_remaining=47.2
+home_fouls: 23, away_fouls: 30
+time_remaining=47.2
+home_fouls: 23, away_fouls: 30
+time_remaining=42.9
+home_fouls: 23, away_fouls: 30
+time_remaining=41.8
+home_fouls: 23, away_fouls: 30
+time_remaining=16.9
+home_fouls: 23, away_fouls: 30
+time_remaining=16.2
+home_fouls: 23, away_fouls: 30
+time_remaining=8.2
+home_fouls: 24, away_fouls: 30
+time_remaining=8.2
+home_fouls: 24, away_fouls: 30
+time_remaining=8.2
+home_fouls: 24, away_fouls: 30
+time_remaining=8.2
+home_fouls: 24, away_fouls: 30
+time_remaining=8.2
+home_fouls: 24, away_fouls: 30
+time_remaining=8.2
+home_fouls: 24, away_fouls: 30
+time_remaining=8.2
+home_fouls: 24, away_fouls: 30
+time_remaining=6.3
+home_fouls: 24, away_fouls: 31
+time_remaining=6.3
+home_fouls: 24, away_fouls: 31
+time_remaining=6.3
+home_fouls: 24, away_fouls: 31
+time_remaining=6.3
+home_fouls: 24, away_fouls: 31
+time_remaining=4.5
+home_fouls: 25, away_fouls: 31
+time_remaining=4.5
+home_fouls: 25, away_fouls: 31
+time_remaining=4.5
+home_fouls: 25, away_fouls: 31
+time_remaining=4.5
+home_fouls: 25, away_fouls: 31
+time_remaining=4.5
+home_fouls: 25, away_fouls: 31
+time_remaining=4.5
+home_fouls: 25, away_fouls: 31
+time_remaining=3.4
+home_fouls: 25, away_fouls: 32
+time_remaining=3.4
+home_fouls: 25, away_fouls: 32
+time_remaining=3.4
+home_fouls: 25, away_fouls: 32
+time_remaining=3.4
+home_fouls: 25, away_fouls: 32
+time_remaining=3.4
+home_fouls: 25, away_fouls: 32
+time_remaining=0.0
+home_fouls: 25, away_fouls: 32
+time_remaining=0.0
+home_fouls: 25, away_fouls: 32
+time_remaining=0.0
+home_fouls: 25, away_fouls: 32

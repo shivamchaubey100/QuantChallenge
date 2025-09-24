@@ -1,0 +1,755 @@
+time_remaining=2880.0
+time_remaining=2880.0
+time_remaining=2875.0
+time_remaining=2874.0
+time_remaining=2858.0
+home_score:0, away_score:2, n_x=0, n_y=130, p_x=0.5, p_y=1.0, a=0.0, b=2.0
+time_remaining=2854.0
+home_score:0, away_score:2, n_x=0, n_y=110, p_x=0.5, p_y=1.0, a=0.0, b=2.0
+time_remaining=2840.0
+home_score:3, away_score:2, n_x=71, n_y=71, p_x=1.0, p_y=1.0, a=3.0, b=2.0
+time_remaining=2819.0
+home_score:5, away_score:2, n_x=92, n_y=46, p_x=1.0, p_y=1.0, a=2.5, b=2.0
+time_remaining=2804.0
+home_score:8, away_score:2, n_x=111, n_y=37, p_x=1.0, p_y=1.0, a=2.6666666666666665, b=2.0
+time_remaining=2783.0
+home_score:10, away_score:2, n_x=115, n_y=29, p_x=1.0, p_y=1.0, a=2.5, b=2.0
+time_remaining=2782.0
+home_score:10, away_score:2, n_x=114, n_y=28, p_x=1.0, p_y=1.0, a=2.5, b=2.0
+time_remaining=2765.0
+home_score:13, away_score:2, n_x=120, n_y=24, p_x=1.0, p_y=1.0, a=2.6, b=2.0
+time_remaining=2745.0
+home_score:13, away_score:2, n_x=122, n_y=20, p_x=0.8333333333333334, p_y=1.0, a=2.6, b=2.0
+time_remaining=2744.0
+home_score:13, away_score:2, n_x=121, n_y=20, p_x=0.8333333333333334, p_y=1.0, a=2.6, b=2.0
+time_remaining=2741.0
+home_score:13, away_score:2, n_x=138, n_y=20, p_x=0.7142857142857143, p_y=1.0, a=2.6, b=2.0
+time_remaining=2740.0
+home_score:13, away_score:2, n_x=137, n_y=20, p_x=0.7142857142857143, p_y=1.0, a=2.6, b=2.0
+time_remaining=2739.0
+home_score:15, away_score:2, n_x=155, n_y=19, p_x=0.75, p_y=1.0, a=2.5, b=2.0
+time_remaining=2721.0
+home_score:15, away_score:2, n_x=137, n_y=17, p_x=0.75, p_y=1.0, a=2.5, b=2.0
+time_remaining=2720.0
+home_score:15, away_score:2, n_x=153, n_y=17, p_x=0.6666666666666666, p_y=1.0, a=2.5, b=2.0
+time_remaining=2719.0
+home_score:15, away_score:2, n_x=169, n_y=17, p_x=0.6, p_y=1.0, a=2.5, b=2.0
+time_remaining=2718.0
+home_score:15, away_score:2, n_x=168, n_y=17, p_x=0.6, p_y=1.0, a=2.5, b=2.0
+time_remaining=2708.0
+home_score:17, away_score:2, n_x=173, n_y=16, p_x=0.6363636363636364, p_y=1.0, a=2.4285714285714284, b=2.0
+time_remaining=2699.0
+home_score:19, away_score:2, n_x=179, n_y=15, p_x=0.6666666666666666, p_y=1.0, a=2.375, b=2.0
+time_remaining=2681.0
+home_score:22, away_score:2, n_x=175, n_y=13, p_x=0.6923076923076923, p_y=1.0, a=2.4444444444444446, b=2.0
+time_remaining=2667.0
+home_score:22, away_score:4, n_x=163, n_y=25, p_x=0.6923076923076923, p_y=1.0, a=2.4444444444444446, b=2.0
+time_remaining=2660.0
+home_score:25, away_score:4, n_x=169, n_y=24, p_x=0.7142857142857143, p_y=1.0, a=2.5, b=2.0
+time_remaining=2649.0
+home_score:28, away_score:4, n_x=172, n_y=23, p_x=0.7333333333333333, p_y=1.0, a=2.5454545454545454, b=2.0
+time_remaining=2628.0
+home_score:28, away_score:4, n_x=156, n_y=21, p_x=0.7333333333333333, p_y=1.0, a=2.5454545454545454, b=2.0
+time_remaining=2627.0
+home_score:28, away_score:5, n_x=156, n_y=31, p_x=0.7333333333333333, p_y=1.0, a=2.5454545454545454, b=1.6666666666666667
+time_remaining=2626.0
+home_score:28, away_score:6, n_x=155, n_y=41, p_x=0.7333333333333333, p_y=1.0, a=2.5454545454545454, b=1.5
+time_remaining=2616.0
+home_score:28, away_score:6, n_x=149, n_y=40, p_x=0.7333333333333333, p_y=1.0, a=2.5454545454545454, b=1.5
+time_remaining=2595.0
+home_score:28, away_score:6, n_x=146, n_y=36, p_x=0.6875, p_y=1.0, a=2.5454545454545454, b=1.5
+time_remaining=2594.0
+home_score:28, away_score:6, n_x=145, n_y=36, p_x=0.6875, p_y=1.0, a=2.5454545454545454, b=1.5
+time_remaining=2575.0
+home_score:31, away_score:6, n_x=144, n_y=34, p_x=0.7058823529411765, p_y=1.0, a=2.5833333333333335, b=1.5
+time_remaining=2569.0
+home_score:31, away_score:6, n_x=149, n_y=33, p_x=0.6666666666666666, p_y=1.0, a=2.5833333333333335, b=1.5
+time_remaining=2568.0
+home_score:31, away_score:6, n_x=148, n_y=33, p_x=0.6666666666666666, p_y=1.0, a=2.5833333333333335, b=1.5
+time_remaining=2547.0
+home_score:31, away_score:6, n_x=138, n_y=31, p_x=0.6666666666666666, p_y=1.0, a=2.5833333333333335, b=1.5
+time_remaining=2541.0
+home_score:31, away_score:6, n_x=135, n_y=30, p_x=0.6666666666666666, p_y=1.0, a=2.5833333333333335, b=1.5
+time_remaining=2540.0
+home_score:31, away_score:6, n_x=142, n_y=30, p_x=0.631578947368421, p_y=1.0, a=2.5833333333333335, b=1.5
+time_remaining=2539.0
+home_score:31, away_score:6, n_x=149, n_y=30, p_x=0.6, p_y=1.0, a=2.5833333333333335, b=1.5
+time_remaining=2538.0
+home_score:31, away_score:6, n_x=148, n_y=30, p_x=0.6, p_y=1.0, a=2.5833333333333335, b=1.5
+time_remaining=2533.0
+home_score:31, away_score:8, n_x=146, n_y=36, p_x=0.6, p_y=1.0, a=2.5833333333333335, b=1.6
+time_remaining=2528.0
+home_score:33, away_score:8, n_x=151, n_y=36, p_x=0.6190476190476191, p_y=1.0, a=2.5384615384615383, b=1.6
+time_remaining=2522.0
+home_score:33, away_score:8, n_x=148, n_y=35, p_x=0.6190476190476191, p_y=1.0, a=2.5384615384615383, b=1.6
+time_remaining=2514.0
+home_score:33, away_score:10, n_x=144, n_y=41, p_x=0.6190476190476191, p_y=1.0, a=2.5384615384615383, b=1.6666666666666667
+time_remaining=2506.0
+home_score:33, away_score:10, n_x=141, n_y=40, p_x=0.6190476190476191, p_y=1.0, a=2.5384615384615383, b=1.6666666666666667
+time_remaining=2502.0
+home_score:35, away_score:10, n_x=146, n_y=40, p_x=0.6363636363636364, p_y=1.0, a=2.5, b=1.6666666666666667
+time_remaining=2483.0
+home_score:38, away_score:10, n_x=144, n_y=38, p_x=0.6521739130434783, p_y=1.0, a=2.533333333333333, b=1.6666666666666667
+time_remaining=2471.0
+home_score:38, away_score:10, n_x=139, n_y=42, p_x=0.6521739130434783, p_y=0.8571428571428571, a=2.533333333333333, b=1.6666666666666667
+time_remaining=2470.0
+home_score:38, away_score:10, n_x=139, n_y=42, p_x=0.6521739130434783, p_y=0.8571428571428571, a=2.533333333333333, b=1.6666666666666667
+time_remaining=2469.0
+home_score:38, away_score:12, n_x=138, n_y=48, p_x=0.6521739130434783, p_y=0.875, a=2.533333333333333, b=1.7142857142857142
+time_remaining=2457.0
+home_score:38, away_score:12, n_x=139, n_y=46, p_x=0.625, p_y=0.875, a=2.533333333333333, b=1.7142857142857142
+time_remaining=2456.0
+home_score:38, away_score:12, n_x=139, n_y=46, p_x=0.625, p_y=0.875, a=2.533333333333333, b=1.7142857142857142
+time_remaining=2455.0
+home_score:40, away_score:12, n_x=144, n_y=46, p_x=0.64, p_y=0.875, a=2.5, b=1.7142857142857142
+time_remaining=2442.0
+home_score:40, away_score:12, n_x=145, n_y=45, p_x=0.6153846153846154, p_y=0.875, a=2.5, b=1.7142857142857142
+time_remaining=2441.0
+home_score:40, away_score:12, n_x=145, n_y=44, p_x=0.6153846153846154, p_y=0.875, a=2.5, b=1.7142857142857142
+time_remaining=2426.0
+home_score:40, away_score:12, n_x=139, n_y=48, p_x=0.6153846153846154, p_y=0.7777777777777778, a=2.5, b=1.7142857142857142
+time_remaining=2425.0
+home_score:40, away_score:12, n_x=139, n_y=48, p_x=0.6153846153846154, p_y=0.7777777777777778, a=2.5, b=1.7142857142857142
+time_remaining=2416.0
+home_score:40, away_score:12, n_x=141, n_y=47, p_x=0.5925925925925926, p_y=0.7777777777777778, a=2.5, b=1.7142857142857142
+time_remaining=2415.0
+home_score:40, away_score:12, n_x=140, n_y=47, p_x=0.5925925925925926, p_y=0.7777777777777778, a=2.5, b=1.7142857142857142
+time_remaining=2405.0
+home_score:40, away_score:12, n_x=137, n_y=46, p_x=0.5925925925925926, p_y=0.7777777777777778, a=2.5, b=1.7142857142857142
+time_remaining=2389.0
+home_score:40, away_score:12, n_x=131, n_y=49, p_x=0.5925925925925926, p_y=0.7, a=2.5, b=1.7142857142857142
+time_remaining=2388.0
+home_score:40, away_score:12, n_x=131, n_y=49, p_x=0.5925925925925926, p_y=0.7, a=2.5, b=1.7142857142857142
+time_remaining=2371.0
+home_score:42, away_score:12, n_x=130, n_y=47, p_x=0.6071428571428571, p_y=0.7, a=2.4705882352941178, b=1.7142857142857142
+time_remaining=2351.0
+home_score:42, away_score:12, n_x=129, n_y=44, p_x=0.5862068965517241, p_y=0.7, a=2.4705882352941178, b=1.7142857142857142
+time_remaining=2350.0
+home_score:42, away_score:12, n_x=129, n_y=44, p_x=0.5862068965517241, p_y=0.7, a=2.4705882352941178, b=1.7142857142857142
+time_remaining=2345.0
+home_score:42, away_score:12, n_x=127, n_y=44, p_x=0.5862068965517241, p_y=0.7, a=2.4705882352941178, b=1.7142857142857142
+time_remaining=2334.0
+home_score:42, away_score:12, n_x=124, n_y=47, p_x=0.5862068965517241, p_y=0.6363636363636364, a=2.4705882352941178, b=1.7142857142857142
+time_remaining=2333.0
+home_score:42, away_score:12, n_x=124, n_y=47, p_x=0.5862068965517241, p_y=0.6363636363636364, a=2.4705882352941178, b=1.7142857142857142
+time_remaining=2330.0
+home_score:42, away_score:12, n_x=123, n_y=47, p_x=0.5862068965517241, p_y=0.6363636363636364, a=2.4705882352941178, b=1.7142857142857142
+time_remaining=2329.0
+home_score:43, away_score:12, n_x=127, n_y=46, p_x=0.6, p_y=0.6363636363636364, a=2.388888888888889, b=1.7142857142857142
+time_remaining=2313.0
+home_score:43, away_score:12, n_x=126, n_y=45, p_x=0.5806451612903226, p_y=0.6363636363636364, a=2.388888888888889, b=1.7142857142857142
+time_remaining=2312.0
+home_score:43, away_score:12, n_x=126, n_y=45, p_x=0.5806451612903226, p_y=0.6363636363636364, a=2.388888888888889, b=1.7142857142857142
+time_remaining=2292.0
+home_score:45, away_score:12, n_x=125, n_y=43, p_x=0.59375, p_y=0.6363636363636364, a=2.3684210526315788, b=1.7142857142857142
+time_remaining=2291.0
+home_score:45, away_score:12, n_x=124, n_y=43, p_x=0.59375, p_y=0.6363636363636364, a=2.3684210526315788, b=1.7142857142857142
+time_remaining=2276.0
+home_score:48, away_score:12, n_x=124, n_y=41, p_x=0.6060606060606061, p_y=0.6363636363636364, a=2.4, b=1.7142857142857142
+time_remaining=2271.0
+home_score:48, away_score:12, n_x=123, n_y=41, p_x=0.6060606060606061, p_y=0.6363636363636364, a=2.4, b=1.7142857142857142
+time_remaining=2270.0
+home_score:48, away_score:12, n_x=123, n_y=41, p_x=0.6060606060606061, p_y=0.6363636363636364, a=2.4, b=1.7142857142857142
+time_remaining=2264.0
+home_score:48, away_score:12, n_x=125, n_y=40, p_x=0.5882352941176471, p_y=0.6363636363636364, a=2.4, b=1.7142857142857142
+time_remaining=2263.0
+home_score:48, away_score:12, n_x=125, n_y=40, p_x=0.5882352941176471, p_y=0.6363636363636364, a=2.4, b=1.7142857142857142
+time_remaining=2251.0
+home_score:48, away_score:12, n_x=125, n_y=39, p_x=0.5714285714285714, p_y=0.6363636363636364, a=2.4, b=1.7142857142857142
+time_remaining=2250.0
+home_score:48, away_score:12, n_x=125, n_y=39, p_x=0.5714285714285714, p_y=0.6363636363636364, a=2.4, b=1.7142857142857142
+time_remaining=2229.0
+home_score:48, away_score:12, n_x=120, n_y=38, p_x=0.5714285714285714, p_y=0.6363636363636364, a=2.4, b=1.7142857142857142
+time_remaining=2225.0
+home_score:48, away_score:12, n_x=119, n_y=37, p_x=0.5714285714285714, p_y=0.6363636363636364, a=2.4, b=1.7142857142857142
+time_remaining=2224.0
+home_score:48, away_score:12, n_x=122, n_y=37, p_x=0.5555555555555556, p_y=0.6363636363636364, a=2.4, b=1.7142857142857142
+time_remaining=2223.0
+home_score:48, away_score:12, n_x=122, n_y=37, p_x=0.5555555555555556, p_y=0.6363636363636364, a=2.4, b=1.7142857142857142
+time_remaining=2223.0
+home_score:48, away_score:12, n_x=125, n_y=37, p_x=0.5405405405405406, p_y=0.6363636363636364, a=2.4, b=1.7142857142857142
+time_remaining=2206.0
+home_score:48, away_score:12, n_x=124, n_y=36, p_x=0.5263157894736842, p_y=0.6363636363636364, a=2.4, b=1.7142857142857142
+time_remaining=2205.0
+home_score:48, away_score:12, n_x=124, n_y=36, p_x=0.5263157894736842, p_y=0.6363636363636364, a=2.4, b=1.7142857142857142
+time_remaining=2192.0
+home_score:51, away_score:12, n_x=124, n_y=35, p_x=0.5384615384615384, p_y=0.6363636363636364, a=2.4285714285714284, b=1.7142857142857142
+time_remaining=2189.0
+home_score:51, away_score:12, n_x=124, n_y=35, p_x=0.5384615384615384, p_y=0.6363636363636364, a=2.4285714285714284, b=1.7142857142857142
+time_remaining=2171.0
+home_score:51, away_score:12, n_x=119, n_y=34, p_x=0.5384615384615384, p_y=0.6363636363636364, a=2.4285714285714284, b=1.7142857142857142
+time_remaining=2160.0
+home_score:51, away_score:12, n_x=117, n_y=36, p_x=0.5384615384615384, p_y=0.5833333333333334, a=2.4285714285714284, b=1.7142857142857142
+time_remaining=2160.0
+home_score:51, away_score:12, n_x=117, n_y=36, p_x=0.5384615384615384, p_y=0.5833333333333334, a=2.4285714285714284, b=1.7142857142857142
+time_remaining=2160.0
+home_score:51, away_score:12, n_x=117, n_y=36, p_x=0.5384615384615384, p_y=0.5833333333333334, a=2.4285714285714284, b=1.7142857142857142
+time_remaining=2160.0
+home_score:51, away_score:12, n_x=117, n_y=36, p_x=0.5384615384615384, p_y=0.5833333333333334, a=2.4285714285714284, b=1.7142857142857142
+time_remaining=2149.0
+home_score:54, away_score:12, n_x=118, n_y=35, p_x=0.55, p_y=0.5833333333333334, a=2.4545454545454546, b=1.7142857142857142
+time_remaining=2136.0
+home_score:57, away_score:12, n_x=118, n_y=34, p_x=0.5609756097560976, p_y=0.5833333333333334, a=2.4782608695652173, b=1.7142857142857142
+time_remaining=2135.0
+home_score:57, away_score:12, n_x=117, n_y=34, p_x=0.5609756097560976, p_y=0.5833333333333334, a=2.4782608695652173, b=1.7142857142857142
+time_remaining=2117.0
+home_score:59, away_score:12, n_x=117, n_y=33, p_x=0.5714285714285714, p_y=0.5833333333333334, a=2.4583333333333335, b=1.7142857142857142
+time_remaining=2098.0
+home_score:59, away_score:15, n_x=113, n_y=35, p_x=0.5714285714285714, p_y=0.6153846153846154, a=2.4583333333333335, b=1.875
+time_remaining=2087.0
+home_score:59, away_score:15, n_x=111, n_y=34, p_x=0.5714285714285714, p_y=0.6153846153846154, a=2.4583333333333335, b=1.875
+time_remaining=2074.0
+home_score:59, away_score:15, n_x=111, n_y=33, p_x=0.5581395348837209, p_y=0.6153846153846154, a=2.4583333333333335, b=1.875
+time_remaining=2073.0
+home_score:59, away_score:15, n_x=110, n_y=33, p_x=0.5581395348837209, p_y=0.6153846153846154, a=2.4583333333333335, b=1.875
+time_remaining=2072.0
+home_score:61, away_score:15, n_x=113, n_y=33, p_x=0.5681818181818182, p_y=0.6153846153846154, a=2.44, b=1.875
+time_remaining=2071.0
+home_score:61, away_score:15, n_x=113, n_y=33, p_x=0.5681818181818182, p_y=0.6153846153846154, a=2.44, b=1.875
+time_remaining=2061.0
+home_score:61, away_score:15, n_x=111, n_y=33, p_x=0.5681818181818182, p_y=0.6153846153846154, a=2.44, b=1.875
+time_remaining=2060.0
+home_score:61, away_score:15, n_x=111, n_y=33, p_x=0.5681818181818182, p_y=0.6153846153846154, a=2.44, b=1.875
+time_remaining=2051.0
+home_score:61, away_score:15, n_x=111, n_y=32, p_x=0.5555555555555556, p_y=0.6153846153846154, a=2.44, b=1.875
+time_remaining=2050.0
+home_score:61, away_score:15, n_x=111, n_y=32, p_x=0.5555555555555556, p_y=0.6153846153846154, a=2.44, b=1.875
+time_remaining=2033.0
+home_score:61, away_score:15, n_x=110, n_y=31, p_x=0.5434782608695652, p_y=0.6153846153846154, a=2.44, b=1.875
+time_remaining=2032.0
+home_score:61, away_score:15, n_x=110, n_y=31, p_x=0.5434782608695652, p_y=0.6153846153846154, a=2.44, b=1.875
+time_remaining=2031.0
+home_score:61, away_score:15, n_x=110, n_y=31, p_x=0.5434782608695652, p_y=0.6153846153846154, a=2.44, b=1.875
+time_remaining=2021.0
+home_score:61, away_score:15, n_x=111, n_y=31, p_x=0.5319148936170213, p_y=0.6153846153846154, a=2.44, b=1.875
+time_remaining=2020.0
+home_score:61, away_score:15, n_x=110, n_y=31, p_x=0.5319148936170213, p_y=0.6153846153846154, a=2.44, b=1.875
+time_remaining=2014.0
+home_score:61, away_score:15, n_x=109, n_y=30, p_x=0.5319148936170213, p_y=0.6153846153846154, a=2.44, b=1.875
+time_remaining=2013.0
+home_score:61, away_score:15, n_x=111, n_y=30, p_x=0.5208333333333334, p_y=0.6153846153846154, a=2.44, b=1.875
+time_remaining=2012.0
+home_score:62, away_score:15, n_x=114, n_y=30, p_x=0.5306122448979592, p_y=0.6153846153846154, a=2.3846153846153846, b=1.875
+time_remaining=1998.0
+home_score:62, away_score:15, n_x=111, n_y=29, p_x=0.5306122448979592, p_y=0.6153846153846154, a=2.3846153846153846, b=1.875
+time_remaining=1997.0
+home_score:63, away_score:15, n_x=113, n_y=29, p_x=0.54, p_y=0.6153846153846154, a=2.3333333333333335, b=1.875
+time_remaining=1996.0
+home_score:63, away_score:15, n_x=115, n_y=29, p_x=0.5294117647058824, p_y=0.6153846153846154, a=2.3333333333333335, b=1.875
+time_remaining=1985.0
+home_score:63, away_score:15, n_x=115, n_y=29, p_x=0.5192307692307693, p_y=0.6153846153846154, a=2.3333333333333335, b=1.875
+time_remaining=1984.0
+home_score:63, away_score:15, n_x=115, n_y=29, p_x=0.5192307692307693, p_y=0.6153846153846154, a=2.3333333333333335, b=1.875
+time_remaining=1982.0
+home_score:63, away_score:15, n_x=115, n_y=29, p_x=0.5192307692307693, p_y=0.6153846153846154, a=2.3333333333333335, b=1.875
+time_remaining=1967.0
+home_score:63, away_score:15, n_x=112, n_y=28, p_x=0.5192307692307693, p_y=0.6153846153846154, a=2.3333333333333335, b=1.875
+time_remaining=1950.0
+home_score:63, away_score:15, n_x=109, n_y=27, p_x=0.5192307692307693, p_y=0.6153846153846154, a=2.3333333333333335, b=1.875
+time_remaining=1949.0
+home_score:64, away_score:15, n_x=111, n_y=27, p_x=0.5283018867924528, p_y=0.6153846153846154, a=2.2857142857142856, b=1.875
+time_remaining=1948.0
+home_score:65, away_score:15, n_x=113, n_y=27, p_x=0.5370370370370371, p_y=0.6153846153846154, a=2.2413793103448274, b=1.875
+time_remaining=1935.7
+home_score:65, away_score:15, n_x=111, n_y=27, p_x=0.5370370370370371, p_y=0.6153846153846154, a=2.2413793103448274, b=1.875
+time_remaining=1933.0
+home_score:65, away_score:17, n_x=110, n_y=29, p_x=0.5370370370370371, p_y=0.6428571428571429, a=2.2413793103448274, b=1.8888888888888888
+time_remaining=1919.0
+home_score:65, away_score:17, n_x=110, n_y=28, p_x=0.5272727272727272, p_y=0.6428571428571429, a=2.2413793103448274, b=1.8888888888888888
+time_remaining=1918.0
+home_score:65, away_score:17, n_x=110, n_y=28, p_x=0.5272727272727272, p_y=0.6428571428571429, a=2.2413793103448274, b=1.8888888888888888
+time_remaining=1903.0
+home_score:65, away_score:17, n_x=109, n_y=27, p_x=0.5178571428571429, p_y=0.6428571428571429, a=2.2413793103448274, b=1.8888888888888888
+time_remaining=1902.0
+home_score:65, away_score:17, n_x=109, n_y=27, p_x=0.5178571428571429, p_y=0.6428571428571429, a=2.2413793103448274, b=1.8888888888888888
+time_remaining=1901.0
+home_score:65, away_score:17, n_x=109, n_y=27, p_x=0.5178571428571429, p_y=0.6428571428571429, a=2.2413793103448274, b=1.8888888888888888
+time_remaining=1897.0
+home_score:65, away_score:17, n_x=110, n_y=27, p_x=0.5087719298245614, p_y=0.6428571428571429, a=2.2413793103448274, b=1.8888888888888888
+time_remaining=1896.0
+home_score:65, away_score:17, n_x=110, n_y=27, p_x=0.5087719298245614, p_y=0.6428571428571429, a=2.2413793103448274, b=1.8888888888888888
+time_remaining=1876.0
+home_score:68, away_score:17, n_x=108, n_y=26, p_x=0.5172413793103449, p_y=0.6428571428571429, a=2.2666666666666666, b=1.8888888888888888
+time_remaining=1869.0
+home_score:68, away_score:17, n_x=109, n_y=26, p_x=0.5084745762711864, p_y=0.6428571428571429, a=2.2666666666666666, b=1.8888888888888888
+time_remaining=1868.0
+home_score:68, away_score:17, n_x=109, n_y=26, p_x=0.5084745762711864, p_y=0.6428571428571429, a=2.2666666666666666, b=1.8888888888888888
+time_remaining=1860.0
+home_score:68, away_score:19, n_x=108, n_y=27, p_x=0.5084745762711864, p_y=0.6666666666666666, a=2.2666666666666666, b=1.9
+time_remaining=1842.0
+home_score:68, away_score:19, n_x=105, n_y=27, p_x=0.5084745762711864, p_y=0.6666666666666666, a=2.2666666666666666, b=1.9
+time_remaining=1841.0
+home_score:69, away_score:19, n_x=106, n_y=27, p_x=0.5166666666666667, p_y=0.6666666666666666, a=2.225806451612903, b=1.9
+time_remaining=1840.0
+home_score:70, away_score:19, n_x=108, n_y=27, p_x=0.5245901639344263, p_y=0.6666666666666666, a=2.1875, b=1.9
+time_remaining=1832.0
+home_score:70, away_score:19, n_x=107, n_y=26, p_x=0.5245901639344263, p_y=0.6666666666666666, a=2.1875, b=1.9
+time_remaining=1819.0
+home_score:70, away_score:19, n_x=105, n_y=26, p_x=0.5245901639344263, p_y=0.6666666666666666, a=2.1875, b=1.9
+time_remaining=1814.0
+home_score:70, away_score:19, n_x=104, n_y=26, p_x=0.5245901639344263, p_y=0.6666666666666666, a=2.1875, b=1.9
+time_remaining=1813.0
+home_score:70, away_score:19, n_x=105, n_y=25, p_x=0.5161290322580645, p_y=0.6666666666666666, a=2.1875, b=1.9
+time_remaining=1812.0
+home_score:70, away_score:19, n_x=105, n_y=25, p_x=0.5161290322580645, p_y=0.6666666666666666, a=2.1875, b=1.9
+time_remaining=1812.0
+home_score:70, away_score:19, n_x=107, n_y=25, p_x=0.5079365079365079, p_y=0.6666666666666666, a=2.1875, b=1.9
+time_remaining=1809.0
+home_score:73, away_score:19, n_x=108, n_y=25, p_x=0.515625, p_y=0.6666666666666666, a=2.212121212121212, b=1.9
+time_remaining=1794.0
+home_score:73, away_score:19, n_x=107, n_y=25, p_x=0.5076923076923077, p_y=0.6666666666666666, a=2.212121212121212, b=1.9
+time_remaining=1793.0
+home_score:73, away_score:19, n_x=107, n_y=25, p_x=0.5076923076923077, p_y=0.6666666666666666, a=2.212121212121212, b=1.9
+time_remaining=1783.0
+home_score:73, away_score:19, n_x=106, n_y=24, p_x=0.5076923076923077, p_y=0.6666666666666666, a=2.212121212121212, b=1.9
+time_remaining=1782.0
+home_score:74, away_score:19, n_x=107, n_y=24, p_x=0.5151515151515151, p_y=0.6666666666666666, a=2.176470588235294, b=1.9
+time_remaining=1771.0
+home_score:74, away_score:19, n_x=107, n_y=24, p_x=0.5074626865671642, p_y=0.6666666666666666, a=2.176470588235294, b=1.9
+time_remaining=1770.0
+home_score:74, away_score:19, n_x=107, n_y=24, p_x=0.5074626865671642, p_y=0.6666666666666666, a=2.176470588235294, b=1.9
+time_remaining=1758.0
+home_score:74, away_score:19, n_x=107, n_y=24, p_x=0.5, p_y=0.6666666666666666, a=2.176470588235294, b=1.9
+time_remaining=1757.0
+home_score:74, away_score:19, n_x=106, n_y=23, p_x=0.5, p_y=0.6666666666666666, a=2.176470588235294, b=1.9
+time_remaining=1737.0
+home_score:74, away_score:19, n_x=105, n_y=23, p_x=0.4927536231884058, p_y=0.6666666666666666, a=2.176470588235294, b=1.9
+time_remaining=1736.0
+home_score:74, away_score:19, n_x=105, n_y=23, p_x=0.4927536231884058, p_y=0.6666666666666666, a=2.176470588235294, b=1.9
+time_remaining=1735.0
+home_score:74, away_score:19, n_x=105, n_y=23, p_x=0.4927536231884058, p_y=0.6666666666666666, a=2.176470588235294, b=1.9
+time_remaining=1722.0
+home_score:76, away_score:19, n_x=104, n_y=22, p_x=0.5, p_y=0.6666666666666666, a=2.1714285714285713, b=1.9
+time_remaining=1718.0
+home_score:79, away_score:19, n_x=105, n_y=22, p_x=0.5070422535211268, p_y=0.6666666666666666, a=2.1944444444444446, b=1.9
+time_remaining=1710.0
+home_score:79, away_score:19, n_x=104, n_y=22, p_x=0.5070422535211268, p_y=0.6666666666666666, a=2.1944444444444446, b=1.9
+time_remaining=1701.0
+home_score:82, away_score:19, n_x=104, n_y=22, p_x=0.5138888888888888, p_y=0.6666666666666666, a=2.2162162162162162, b=1.9
+time_remaining=1695.0
+home_score:82, away_score:19, n_x=103, n_y=23, p_x=0.5138888888888888, p_y=0.625, a=2.2162162162162162, b=1.9
+time_remaining=1694.0
+home_score:82, away_score:19, n_x=103, n_y=23, p_x=0.5138888888888888, p_y=0.625, a=2.2162162162162162, b=1.9
+time_remaining=1679.0
+home_score:82, away_score:19, n_x=102, n_y=22, p_x=0.5068493150684932, p_y=0.625, a=2.2162162162162162, b=1.9
+time_remaining=1678.0
+home_score:82, away_score:19, n_x=102, n_y=22, p_x=0.5068493150684932, p_y=0.625, a=2.2162162162162162, b=1.9
+time_remaining=1663.0
+home_score:82, away_score:19, n_x=100, n_y=22, p_x=0.5068493150684932, p_y=0.625, a=2.2162162162162162, b=1.9
+time_remaining=1642.0
+home_score:82, away_score:19, n_x=97, n_y=21, p_x=0.5068493150684932, p_y=0.625, a=2.2162162162162162, b=1.9
+time_remaining=1626.0
+home_score:82, away_score:19, n_x=96, n_y=21, p_x=0.5, p_y=0.625, a=2.2162162162162162, b=1.9
+time_remaining=1625.0
+home_score:82, away_score:19, n_x=96, n_y=21, p_x=0.5, p_y=0.625, a=2.2162162162162162, b=1.9
+time_remaining=1611.0
+home_score:82, away_score:19, n_x=94, n_y=20, p_x=0.5, p_y=0.625, a=2.2162162162162162, b=1.9
+time_remaining=1596.0
+home_score:82, away_score:19, n_x=92, n_y=20, p_x=0.5, p_y=0.625, a=2.2162162162162162, b=1.9
+time_remaining=1595.0
+home_score:82, away_score:20, n_x=92, n_y=21, p_x=0.5, p_y=0.6470588235294118, a=2.2162162162162162, b=1.8181818181818181
+time_remaining=1594.0
+home_score:82, away_score:21, n_x=92, n_y=22, p_x=0.5, p_y=0.6666666666666666, a=2.2162162162162162, b=1.75
+time_remaining=1589.0
+home_score:82, away_score:21, n_x=92, n_y=22, p_x=0.49333333333333335, p_y=0.6666666666666666, a=2.2162162162162162, b=1.75
+time_remaining=1588.0
+home_score:82, away_score:21, n_x=92, n_y=22, p_x=0.49333333333333335, p_y=0.6666666666666666, a=2.2162162162162162, b=1.75
+time_remaining=1577.0
+home_score:82, away_score:21, n_x=91, n_y=22, p_x=0.49333333333333335, p_y=0.6666666666666666, a=2.2162162162162162, b=1.75
+time_remaining=1561.0
+home_score:82, away_score:24, n_x=89, n_y=22, p_x=0.49333333333333335, p_y=0.6842105263157895, a=2.2162162162162162, b=1.8461538461538463
+time_remaining=1555.0
+home_score:82, away_score:24, n_x=88, n_y=22, p_x=0.49333333333333335, p_y=0.6842105263157895, a=2.2162162162162162, b=1.8461538461538463
+time_remaining=1554.0
+home_score:83, away_score:24, n_x=89, n_y=22, p_x=0.5, p_y=0.6842105263157895, a=2.1842105263157894, b=1.8461538461538463
+time_remaining=1553.0
+home_score:84, away_score:24, n_x=90, n_y=22, p_x=0.5064935064935064, p_y=0.6842105263157895, a=2.1538461538461537, b=1.8461538461538463
+time_remaining=1545.0
+home_score:84, away_score:24, n_x=89, n_y=22, p_x=0.5064935064935064, p_y=0.6842105263157895, a=2.1538461538461537, b=1.8461538461538463
+time_remaining=1525.0
+home_score:84, away_score:24, n_x=88, n_y=21, p_x=0.5, p_y=0.6842105263157895, a=2.1538461538461537, b=1.8461538461538463
+time_remaining=1524.0
+home_score:84, away_score:24, n_x=88, n_y=21, p_x=0.5, p_y=0.6842105263157895, a=2.1538461538461537, b=1.8461538461538463
+time_remaining=1508.0
+home_score:86, away_score:24, n_x=87, n_y=21, p_x=0.5063291139240507, p_y=0.6842105263157895, a=2.15, b=1.8461538461538463
+time_remaining=1507.0
+home_score:86, away_score:24, n_x=87, n_y=21, p_x=0.5063291139240507, p_y=0.6842105263157895, a=2.15, b=1.8461538461538463
+time_remaining=1494.0
+home_score:86, away_score:24, n_x=85, n_y=22, p_x=0.5063291139240507, p_y=0.65, a=2.15, b=1.8461538461538463
+time_remaining=1493.0
+home_score:86, away_score:24, n_x=85, n_y=22, p_x=0.5063291139240507, p_y=0.65, a=2.15, b=1.8461538461538463
+time_remaining=1483.0
+home_score:86, away_score:24, n_x=85, n_y=21, p_x=0.5, p_y=0.65, a=2.15, b=1.8461538461538463
+time_remaining=1482.0
+home_score:86, away_score:24, n_x=85, n_y=21, p_x=0.5, p_y=0.65, a=2.15, b=1.8461538461538463
+time_remaining=1468.0
+home_score:86, away_score:24, n_x=83, n_y=22, p_x=0.5, p_y=0.6190476190476191, a=2.15, b=1.8461538461538463
+time_remaining=1467.0
+home_score:86, away_score:24, n_x=83, n_y=22, p_x=0.5, p_y=0.6190476190476191, a=2.15, b=1.8461538461538463
+time_remaining=1446.0
+home_score:86, away_score:24, n_x=82, n_y=21, p_x=0.49382716049382713, p_y=0.6190476190476191, a=2.15, b=1.8461538461538463
+time_remaining=1445.0
+home_score:86, away_score:24, n_x=82, n_y=21, p_x=0.49382716049382713, p_y=0.6190476190476191, a=2.15, b=1.8461538461538463
+time_remaining=1440.0
+home_score:86, away_score:24, n_x=81, n_y=22, p_x=0.49382716049382713, p_y=0.5909090909090909, a=2.15, b=1.8461538461538463
+time_remaining=1440.0
+home_score:86, away_score:24, n_x=81, n_y=22, p_x=0.49382716049382713, p_y=0.5909090909090909, a=2.15, b=1.8461538461538463
+time_remaining=1440.0
+home_score:86, away_score:24, n_x=81, n_y=22, p_x=0.49382716049382713, p_y=0.5909090909090909, a=2.15, b=1.8461538461538463
+time_remaining=1440.0
+home_score:86, away_score:24, n_x=81, n_y=22, p_x=0.49382716049382713, p_y=0.5909090909090909, a=2.15, b=1.8461538461538463
+time_remaining=1434.0
+home_score:86, away_score:24, n_x=81, n_y=22, p_x=0.4878048780487805, p_y=0.5909090909090909, a=2.15, b=1.8461538461538463
+time_remaining=1433.0
+home_score:86, away_score:24, n_x=81, n_y=22, p_x=0.4878048780487805, p_y=0.5909090909090909, a=2.15, b=1.8461538461538463
+time_remaining=1416.0
+home_score:86, away_score:24, n_x=79, n_y=21, p_x=0.4878048780487805, p_y=0.5909090909090909, a=2.15, b=1.8461538461538463
+time_remaining=1402.0
+home_score:86, away_score:24, n_x=79, n_y=21, p_x=0.4819277108433735, p_y=0.5909090909090909, a=2.15, b=1.8461538461538463
+time_remaining=1401.0
+home_score:86, away_score:24, n_x=79, n_y=21, p_x=0.4819277108433735, p_y=0.5909090909090909, a=2.15, b=1.8461538461538463
+time_remaining=1394.0
+home_score:88, away_score:24, n_x=79, n_y=21, p_x=0.4880952380952381, p_y=0.5909090909090909, a=2.1463414634146343, b=1.8461538461538463
+time_remaining=1380.0
+home_score:88, away_score:24, n_x=77, n_y=20, p_x=0.4880952380952381, p_y=0.5909090909090909, a=2.1463414634146343, b=1.8461538461538463
+time_remaining=1371.0
+home_score:88, away_score:24, n_x=76, n_y=20, p_x=0.4880952380952381, p_y=0.5909090909090909, a=2.1463414634146343, b=1.8461538461538463
+time_remaining=1358.0
+home_score:88, away_score:24, n_x=75, n_y=20, p_x=0.4880952380952381, p_y=0.5909090909090909, a=2.1463414634146343, b=1.8461538461538463
+time_remaining=1357.0
+home_score:88, away_score:24, n_x=75, n_y=20, p_x=0.4880952380952381, p_y=0.5652173913043478, a=2.1463414634146343, b=1.8461538461538463
+time_remaining=1356.0
+home_score:88, away_score:24, n_x=75, n_y=20, p_x=0.4880952380952381, p_y=0.5652173913043478, a=2.1463414634146343, b=1.8461538461538463
+time_remaining=1356.0
+home_score:88, away_score:25, n_x=75, n_y=21, p_x=0.4880952380952381, p_y=0.5833333333333334, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1349.0
+home_score:88, away_score:25, n_x=74, n_y=21, p_x=0.4880952380952381, p_y=0.5833333333333334, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1336.0
+home_score:88, away_score:25, n_x=73, n_y=21, p_x=0.4880952380952381, p_y=0.5833333333333334, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1335.0
+home_score:88, away_score:25, n_x=73, n_y=21, p_x=0.4880952380952381, p_y=0.5833333333333334, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1326.0
+home_score:88, away_score:25, n_x=73, n_y=20, p_x=0.4823529411764706, p_y=0.5833333333333334, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1325.0
+home_score:88, away_score:25, n_x=72, n_y=20, p_x=0.4823529411764706, p_y=0.5833333333333334, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1311.0
+home_score:88, away_score:25, n_x=72, n_y=20, p_x=0.47674418604651164, p_y=0.5833333333333334, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1310.0
+home_score:88, away_score:25, n_x=72, n_y=20, p_x=0.47674418604651164, p_y=0.5833333333333334, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1300.0
+home_score:88, away_score:25, n_x=71, n_y=20, p_x=0.47674418604651164, p_y=0.5833333333333334, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1284.0
+home_score:88, away_score:25, n_x=69, n_y=19, p_x=0.47674418604651164, p_y=0.5833333333333334, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1270.0
+home_score:88, away_score:25, n_x=68, n_y=19, p_x=0.47674418604651164, p_y=0.5833333333333334, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1269.0
+home_score:88, away_score:25, n_x=68, n_y=19, p_x=0.47674418604651164, p_y=0.5833333333333334, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1252.0
+home_score:88, away_score:25, n_x=67, n_y=18, p_x=0.47126436781609193, p_y=0.5833333333333334, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1251.0
+home_score:88, away_score:25, n_x=67, n_y=18, p_x=0.47126436781609193, p_y=0.5833333333333334, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1235.0
+home_score:88, away_score:25, n_x=65, n_y=19, p_x=0.47126436781609193, p_y=0.56, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1234.0
+home_score:88, away_score:25, n_x=65, n_y=19, p_x=0.47126436781609193, p_y=0.56, a=2.1463414634146343, b=1.7857142857142858
+time_remaining=1220.0
+home_score:88, away_score:28, n_x=64, n_y=19, p_x=0.47126436781609193, p_y=0.5769230769230769, a=2.1463414634146343, b=1.8666666666666667
+time_remaining=1216.0
+home_score:88, away_score:28, n_x=64, n_y=19, p_x=0.4659090909090909, p_y=0.5769230769230769, a=2.1463414634146343, b=1.8666666666666667
+time_remaining=1215.0
+home_score:88, away_score:28, n_x=64, n_y=19, p_x=0.4659090909090909, p_y=0.5769230769230769, a=2.1463414634146343, b=1.8666666666666667
+time_remaining=1194.0
+home_score:88, away_score:28, n_x=62, n_y=18, p_x=0.4659090909090909, p_y=0.5769230769230769, a=2.1463414634146343, b=1.8666666666666667
+time_remaining=1193.0
+home_score:88, away_score:28, n_x=62, n_y=18, p_x=0.4659090909090909, p_y=0.5769230769230769, a=2.1463414634146343, b=1.8666666666666667
+time_remaining=1176.0
+home_score:88, away_score:28, n_x=61, n_y=18, p_x=0.4659090909090909, p_y=0.5769230769230769, a=2.1463414634146343, b=1.8666666666666667
+time_remaining=1163.0
+home_score:90, away_score:28, n_x=60, n_y=18, p_x=0.47191011235955055, p_y=0.5769230769230769, a=2.142857142857143, b=1.8666666666666667
+time_remaining=1148.0
+home_score:90, away_score:28, n_x=59, n_y=17, p_x=0.47191011235955055, p_y=0.5769230769230769, a=2.142857142857143, b=1.8666666666666667
+time_remaining=1147.0
+home_score:90, away_score:29, n_x=59, n_y=18, p_x=0.47191011235955055, p_y=0.5925925925925926, a=2.142857142857143, b=1.8125
+time_remaining=1146.0
+home_score:90, away_score:30, n_x=59, n_y=19, p_x=0.47191011235955055, p_y=0.6071428571428571, a=2.142857142857143, b=1.7647058823529411
+time_remaining=1139.0
+home_score:90, away_score:30, n_x=59, n_y=18, p_x=0.4666666666666667, p_y=0.6071428571428571, a=2.142857142857143, b=1.7647058823529411
+time_remaining=1138.0
+home_score:90, away_score:30, n_x=59, n_y=18, p_x=0.4666666666666667, p_y=0.6071428571428571, a=2.142857142857143, b=1.7647058823529411
+time_remaining=1133.0
+home_score:93, away_score:30, n_x=59, n_y=18, p_x=0.4725274725274725, p_y=0.6071428571428571, a=2.1627906976744184, b=1.7647058823529411
+time_remaining=1116.0
+home_score:96, away_score:30, n_x=58, n_y=18, p_x=0.4782608695652174, p_y=0.6071428571428571, a=2.1818181818181817, b=1.7647058823529411
+time_remaining=1098.0
+home_score:99, away_score:30, n_x=57, n_y=17, p_x=0.4838709677419355, p_y=0.6071428571428571, a=2.2, b=1.7647058823529411
+time_remaining=1097.0
+home_score:99, away_score:30, n_x=57, n_y=17, p_x=0.4838709677419355, p_y=0.6071428571428571, a=2.2, b=1.7647058823529411
+time_remaining=1092.0
+home_score:99, away_score:30, n_x=57, n_y=17, p_x=0.4787234042553192, p_y=0.6071428571428571, a=2.2, b=1.7647058823529411
+time_remaining=1091.0
+home_score:99, away_score:30, n_x=57, n_y=17, p_x=0.4787234042553192, p_y=0.6071428571428571, a=2.2, b=1.7647058823529411
+time_remaining=1074.0
+home_score:101, away_score:30, n_x=56, n_y=17, p_x=0.4842105263157895, p_y=0.6071428571428571, a=2.1956521739130435, b=1.7647058823529411
+time_remaining=1060.0
+home_score:101, away_score:30, n_x=56, n_y=16, p_x=0.4791666666666667, p_y=0.6071428571428571, a=2.1956521739130435, b=1.7647058823529411
+time_remaining=1059.0
+home_score:101, away_score:30, n_x=56, n_y=16, p_x=0.4791666666666667, p_y=0.6071428571428571, a=2.1956521739130435, b=1.7647058823529411
+time_remaining=1052.0
+home_score:104, away_score:30, n_x=56, n_y=16, p_x=0.4845360824742268, p_y=0.6071428571428571, a=2.2127659574468086, b=1.7647058823529411
+time_remaining=1033.0
+home_score:104, away_score:30, n_x=55, n_y=16, p_x=0.47959183673469385, p_y=0.6071428571428571, a=2.2127659574468086, b=1.7647058823529411
+time_remaining=1032.0
+home_score:104, away_score:30, n_x=55, n_y=16, p_x=0.47959183673469385, p_y=0.6071428571428571, a=2.2127659574468086, b=1.7647058823529411
+time_remaining=1025.0
+home_score:104, away_score:30, n_x=55, n_y=15, p_x=0.47474747474747475, p_y=0.6071428571428571, a=2.2127659574468086, b=1.7647058823529411
+time_remaining=1024.0
+home_score:104, away_score:30, n_x=55, n_y=15, p_x=0.47474747474747475, p_y=0.6071428571428571, a=2.2127659574468086, b=1.7647058823529411
+time_remaining=1013.7
+home_score:104, away_score:30, n_x=54, n_y=15, p_x=0.47474747474747475, p_y=0.6071428571428571, a=2.2127659574468086, b=1.7647058823529411
+time_remaining=1013.0
+home_score:107, away_score:30, n_x=54, n_y=15, p_x=0.48, p_y=0.6071428571428571, a=2.2291666666666665, b=1.7647058823529411
+time_remaining=999.0
+home_score:107, away_score:30, n_x=53, n_y=15, p_x=0.48, p_y=0.6071428571428571, a=2.2291666666666665, b=1.7647058823529411
+time_remaining=998.0
+home_score:107, away_score:30, n_x=54, n_y=15, p_x=0.4752475247524752, p_y=0.6071428571428571, a=2.2291666666666665, b=1.7647058823529411
+time_remaining=995.0
+home_score:107, away_score:30, n_x=54, n_y=15, p_x=0.47058823529411764, p_y=0.6071428571428571, a=2.2291666666666665, b=1.7647058823529411
+time_remaining=994.0
+home_score:107, away_score:30, n_x=54, n_y=15, p_x=0.47058823529411764, p_y=0.6071428571428571, a=2.2291666666666665, b=1.7647058823529411
+time_remaining=985.0
+home_score:110, away_score:30, n_x=54, n_y=15, p_x=0.47572815533980584, p_y=0.6071428571428571, a=2.2448979591836733, b=1.7647058823529411
+time_remaining=971.0
+home_score:113, away_score:30, n_x=53, n_y=14, p_x=0.4807692307692308, p_y=0.6071428571428571, a=2.26, b=1.7647058823529411
+time_remaining=957.0
+home_score:113, away_score:30, n_x=52, n_y=14, p_x=0.4807692307692308, p_y=0.6071428571428571, a=2.26, b=1.7647058823529411
+time_remaining=939.0
+home_score:113, away_score:30, n_x=51, n_y=14, p_x=0.47619047619047616, p_y=0.6071428571428571, a=2.26, b=1.7647058823529411
+time_remaining=938.0
+home_score:113, away_score:30, n_x=51, n_y=14, p_x=0.47619047619047616, p_y=0.6071428571428571, a=2.26, b=1.7647058823529411
+time_remaining=937.0
+home_score:113, away_score:30, n_x=51, n_y=14, p_x=0.47619047619047616, p_y=0.6071428571428571, a=2.26, b=1.7647058823529411
+time_remaining=920.0
+home_score:115, away_score:30, n_x=50, n_y=13, p_x=0.4811320754716981, p_y=0.6071428571428571, a=2.2549019607843137, b=1.7647058823529411
+time_remaining=902.6
+home_score:115, away_score:30, n_x=48, n_y=13, p_x=0.4811320754716981, p_y=0.6071428571428571, a=2.2549019607843137, b=1.7647058823529411
+time_remaining=899.0
+home_score:115, away_score:32, n_x=48, n_y=13, p_x=0.4811320754716981, p_y=0.6206896551724138, a=2.2549019607843137, b=1.7777777777777777
+time_remaining=891.0
+home_score:118, away_score:32, n_x=48, n_y=13, p_x=0.48598130841121495, p_y=0.6206896551724138, a=2.269230769230769, b=1.7777777777777777
+time_remaining=877.0
+home_score:118, away_score:32, n_x=47, n_y=13, p_x=0.48598130841121495, p_y=0.6206896551724138, a=2.269230769230769, b=1.7777777777777777
+time_remaining=863.0
+home_score:118, away_score:32, n_x=46, n_y=12, p_x=0.48148148148148145, p_y=0.6206896551724138, a=2.269230769230769, b=1.7777777777777777
+time_remaining=862.0
+home_score:118, away_score:32, n_x=46, n_y=12, p_x=0.48148148148148145, p_y=0.6206896551724138, a=2.269230769230769, b=1.7777777777777777
+time_remaining=859.0
+home_score:118, away_score:32, n_x=46, n_y=12, p_x=0.47706422018348627, p_y=0.6206896551724138, a=2.269230769230769, b=1.7777777777777777
+time_remaining=858.0
+home_score:118, away_score:32, n_x=46, n_y=12, p_x=0.47706422018348627, p_y=0.6206896551724138, a=2.269230769230769, b=1.7777777777777777
+time_remaining=851.0
+home_score:118, away_score:32, n_x=46, n_y=12, p_x=0.47706422018348627, p_y=0.6206896551724138, a=2.269230769230769, b=1.7777777777777777
+time_remaining=850.0
+home_score:119, away_score:32, n_x=46, n_y=12, p_x=0.4818181818181818, p_y=0.6206896551724138, a=2.2452830188679247, b=1.7777777777777777
+time_remaining=849.0
+home_score:120, away_score:32, n_x=46, n_y=12, p_x=0.4864864864864865, p_y=0.6206896551724138, a=2.2222222222222223, b=1.7777777777777777
+time_remaining=831.0
+home_score:120, away_score:32, n_x=45, n_y=12, p_x=0.4864864864864865, p_y=0.6206896551724138, a=2.2222222222222223, b=1.7777777777777777
+time_remaining=821.0
+home_score:120, away_score:32, n_x=44, n_y=12, p_x=0.4864864864864865, p_y=0.6, a=2.2222222222222223, b=1.7777777777777777
+time_remaining=820.0
+home_score:120, away_score:32, n_x=44, n_y=12, p_x=0.4864864864864865, p_y=0.6, a=2.2222222222222223, b=1.7777777777777777
+time_remaining=809.0
+home_score:120, away_score:32, n_x=44, n_y=12, p_x=0.48214285714285715, p_y=0.6, a=2.2222222222222223, b=1.7777777777777777
+time_remaining=808.0
+home_score:120, away_score:32, n_x=44, n_y=12, p_x=0.48214285714285715, p_y=0.6, a=2.2222222222222223, b=1.7777777777777777
+time_remaining=788.0
+home_score:120, away_score:32, n_x=42, n_y=11, p_x=0.48214285714285715, p_y=0.6, a=2.2222222222222223, b=1.7777777777777777
+time_remaining=772.0
+home_score:120, away_score:32, n_x=41, n_y=11, p_x=0.48214285714285715, p_y=0.6, a=2.2222222222222223, b=1.7777777777777777
+time_remaining=771.0
+home_score:121, away_score:32, n_x=41, n_y=11, p_x=0.48672566371681414, p_y=0.6, a=2.2, b=1.7777777777777777
+time_remaining=770.0
+home_score:122, away_score:32, n_x=42, n_y=11, p_x=0.49122807017543857, p_y=0.6, a=2.1785714285714284, b=1.7777777777777777
+time_remaining=760.0
+home_score:122, away_score:32, n_x=41, n_y=11, p_x=0.49122807017543857, p_y=0.6, a=2.1785714285714284, b=1.7777777777777777
+time_remaining=759.0
+home_score:122, away_score:32, n_x=41, n_y=11, p_x=0.49122807017543857, p_y=0.6, a=2.1785714285714284, b=1.7777777777777777
+time_remaining=738.0
+home_score:122, away_score:34, n_x=39, n_y=11, p_x=0.49122807017543857, p_y=0.6129032258064516, a=2.1785714285714284, b=1.7894736842105263
+time_remaining=720.0
+home_score:122, away_score:34, n_x=38, n_y=10, p_x=0.49122807017543857, p_y=0.6129032258064516, a=2.1785714285714284, b=1.7894736842105263
+time_remaining=720.0
+home_score:122, away_score:34, n_x=38, n_y=10, p_x=0.49122807017543857, p_y=0.6129032258064516, a=2.1785714285714284, b=1.7894736842105263
+time_remaining=720.0
+home_score:122, away_score:34, n_x=38, n_y=10, p_x=0.49122807017543857, p_y=0.6129032258064516, a=2.1785714285714284, b=1.7894736842105263
+time_remaining=705.0
+home_score:124, away_score:34, n_x=37, n_y=10, p_x=0.4956521739130435, p_y=0.6129032258064516, a=2.175438596491228, b=1.7894736842105263
+time_remaining=696.0
+home_score:124, away_score:34, n_x=37, n_y=10, p_x=0.4956521739130435, p_y=0.6129032258064516, a=2.175438596491228, b=1.7894736842105263
+time_remaining=683.0
+home_score:124, away_score:34, n_x=36, n_y=10, p_x=0.4956521739130435, p_y=0.6129032258064516, a=2.175438596491228, b=1.7894736842105263
+time_remaining=682.0
+home_score:124, away_score:34, n_x=36, n_y=10, p_x=0.49137931034482757, p_y=0.6129032258064516, a=2.175438596491228, b=1.7894736842105263
+time_remaining=681.0
+home_score:124, away_score:34, n_x=36, n_y=10, p_x=0.49137931034482757, p_y=0.6129032258064516, a=2.175438596491228, b=1.7894736842105263
+time_remaining=681.0
+home_score:125, away_score:34, n_x=36, n_y=10, p_x=0.49572649572649574, p_y=0.6129032258064516, a=2.1551724137931036, b=1.7894736842105263
+time_remaining=669.0
+home_score:127, away_score:34, n_x=36, n_y=9, p_x=0.5, p_y=0.6129032258064516, a=2.152542372881356, b=1.7894736842105263
+time_remaining=652.0
+home_score:127, away_score:34, n_x=35, n_y=9, p_x=0.4957983193277311, p_y=0.6129032258064516, a=2.152542372881356, b=1.7894736842105263
+time_remaining=651.0
+home_score:127, away_score:34, n_x=35, n_y=9, p_x=0.4957983193277311, p_y=0.6129032258064516, a=2.152542372881356, b=1.7894736842105263
+time_remaining=639.0
+home_score:127, away_score:34, n_x=34, n_y=9, p_x=0.49166666666666664, p_y=0.6129032258064516, a=2.152542372881356, b=1.7894736842105263
+time_remaining=638.0
+home_score:127, away_score:34, n_x=34, n_y=9, p_x=0.49166666666666664, p_y=0.6129032258064516, a=2.152542372881356, b=1.7894736842105263
+time_remaining=626.0
+home_score:127, away_score:34, n_x=34, n_y=9, p_x=0.48760330578512395, p_y=0.6129032258064516, a=2.152542372881356, b=1.7894736842105263
+time_remaining=625.0
+home_score:127, away_score:34, n_x=34, n_y=9, p_x=0.48760330578512395, p_y=0.6129032258064516, a=2.152542372881356, b=1.7894736842105263
+time_remaining=616.0
+home_score:127, away_score:34, n_x=33, n_y=8, p_x=0.48760330578512395, p_y=0.6129032258064516, a=2.152542372881356, b=1.7894736842105263
+time_remaining=609.0
+home_score:130, away_score:34, n_x=33, n_y=8, p_x=0.4918032786885246, p_y=0.6129032258064516, a=2.1666666666666665, b=1.7894736842105263
+time_remaining=589.0
+home_score:130, away_score:34, n_x=32, n_y=8, p_x=0.4878048780487805, p_y=0.6129032258064516, a=2.1666666666666665, b=1.7894736842105263
+time_remaining=588.0
+home_score:130, away_score:34, n_x=32, n_y=8, p_x=0.4878048780487805, p_y=0.6129032258064516, a=2.1666666666666665, b=1.7894736842105263
+time_remaining=567.0
+home_score:133, away_score:34, n_x=30, n_y=8, p_x=0.49193548387096775, p_y=0.6129032258064516, a=2.180327868852459, b=1.7894736842105263
+time_remaining=550.0
+home_score:133, away_score:34, n_x=30, n_y=7, p_x=0.488, p_y=0.6129032258064516, a=2.180327868852459, b=1.7894736842105263
+time_remaining=549.0
+home_score:133, away_score:34, n_x=29, n_y=7, p_x=0.488, p_y=0.6129032258064516, a=2.180327868852459, b=1.7894736842105263
+time_remaining=530.0
+home_score:135, away_score:34, n_x=28, n_y=7, p_x=0.49206349206349204, p_y=0.6129032258064516, a=2.1774193548387095, b=1.7894736842105263
+time_remaining=522.0
+home_score:138, away_score:34, n_x=28, n_y=7, p_x=0.49606299212598426, p_y=0.6129032258064516, a=2.1904761904761907, b=1.7894736842105263
+time_remaining=504.0
+home_score:138, away_score:34, n_x=27, n_y=7, p_x=0.4921875, p_y=0.6129032258064516, a=2.1904761904761907, b=1.7894736842105263
+time_remaining=503.0
+home_score:138, away_score:34, n_x=27, n_y=7, p_x=0.4921875, p_y=0.6129032258064516, a=2.1904761904761907, b=1.7894736842105263
+time_remaining=482.0
+home_score:141, away_score:34, n_x=26, n_y=6, p_x=0.49612403100775193, p_y=0.6129032258064516, a=2.203125, b=1.7894736842105263
+time_remaining=473.0
+home_score:141, away_score:34, n_x=26, n_y=6, p_x=0.49230769230769234, p_y=0.6129032258064516, a=2.203125, b=1.7894736842105263
+time_remaining=472.0
+home_score:141, away_score:34, n_x=25, n_y=6, p_x=0.49230769230769234, p_y=0.6129032258064516, a=2.203125, b=1.7894736842105263
+time_remaining=452.0
+home_score:141, away_score:34, n_x=24, n_y=6, p_x=0.49230769230769234, p_y=0.59375, a=2.203125, b=1.7894736842105263
+time_remaining=451.0
+home_score:141, away_score:34, n_x=24, n_y=6, p_x=0.49230769230769234, p_y=0.59375, a=2.203125, b=1.7894736842105263
+time_remaining=446.0
+home_score:141, away_score:34, n_x=24, n_y=6, p_x=0.49230769230769234, p_y=0.59375, a=2.203125, b=1.7894736842105263
+time_remaining=434.0
+home_score:141, away_score:34, n_x=23, n_y=6, p_x=0.49230769230769234, p_y=0.5757575757575758, a=2.203125, b=1.7894736842105263
+time_remaining=433.0
+home_score:141, away_score:34, n_x=23, n_y=6, p_x=0.49230769230769234, p_y=0.5757575757575758, a=2.203125, b=1.7894736842105263
+time_remaining=424.0
+home_score:141, away_score:34, n_x=22, n_y=6, p_x=0.49230769230769234, p_y=0.5757575757575758, a=2.203125, b=1.7894736842105263
+time_remaining=413.0
+home_score:141, away_score:34, n_x=22, n_y=6, p_x=0.48854961832061067, p_y=0.5757575757575758, a=2.203125, b=1.7894736842105263
+time_remaining=412.0
+home_score:141, away_score:34, n_x=22, n_y=6, p_x=0.48854961832061067, p_y=0.5757575757575758, a=2.203125, b=1.7894736842105263
+time_remaining=394.0
+home_score:141, away_score:34, n_x=21, n_y=5, p_x=0.48854961832061067, p_y=0.5757575757575758, a=2.203125, b=1.7894736842105263
+time_remaining=383.0
+home_score:141, away_score:34, n_x=20, n_y=5, p_x=0.48854961832061067, p_y=0.5757575757575758, a=2.203125, b=1.7894736842105263
+time_remaining=375.0
+home_score:144, away_score:34, n_x=20, n_y=5, p_x=0.49242424242424243, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=356.0
+home_score:144, away_score:34, n_x=19, n_y=5, p_x=0.48872180451127817, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=355.0
+home_score:144, away_score:34, n_x=19, n_y=5, p_x=0.48872180451127817, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=351.0
+home_score:144, away_score:34, n_x=18, n_y=5, p_x=0.48872180451127817, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=350.0
+home_score:144, away_score:34, n_x=18, n_y=5, p_x=0.48872180451127817, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=336.8
+home_score:144, away_score:34, n_x=18, n_y=4, p_x=0.48872180451127817, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=333.0
+home_score:144, away_score:34, n_x=18, n_y=4, p_x=0.48507462686567165, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=332.0
+home_score:144, away_score:34, n_x=17, n_y=4, p_x=0.48507462686567165, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=316.0
+home_score:144, away_score:34, n_x=17, n_y=4, p_x=0.48507462686567165, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=315.0
+home_score:144, away_score:34, n_x=16, n_y=4, p_x=0.48507462686567165, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=304.0
+home_score:144, away_score:34, n_x=16, n_y=4, p_x=0.48507462686567165, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=293.0
+home_score:144, away_score:34, n_x=15, n_y=4, p_x=0.48507462686567165, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=287.0
+home_score:144, away_score:34, n_x=15, n_y=4, p_x=0.48148148148148145, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=286.0
+home_score:144, away_score:34, n_x=15, n_y=4, p_x=0.48148148148148145, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=267.0
+home_score:144, away_score:34, n_x=14, n_y=3, p_x=0.48148148148148145, p_y=0.5757575757575758, a=2.2153846153846155, b=1.7894736842105263
+time_remaining=266.0
+home_score:145, away_score:34, n_x=14, n_y=3, p_x=0.4852941176470588, p_y=0.5757575757575758, a=2.196969696969697, b=1.7894736842105263
+time_remaining=265.0
+home_score:146, away_score:34, n_x=14, n_y=3, p_x=0.48905109489051096, p_y=0.5757575757575758, a=2.1791044776119404, b=1.7894736842105263
+time_remaining=246.0
+home_score:146, away_score:34, n_x=13, n_y=3, p_x=0.4855072463768116, p_y=0.5757575757575758, a=2.1791044776119404, b=1.7894736842105263
+time_remaining=245.0
+home_score:146, away_score:34, n_x=13, n_y=3, p_x=0.4855072463768116, p_y=0.5757575757575758, a=2.1791044776119404, b=1.7894736842105263
+time_remaining=237.0
+home_score:146, away_score:34, n_x=12, n_y=3, p_x=0.4855072463768116, p_y=0.5588235294117647, a=2.1791044776119404, b=1.7894736842105263
+time_remaining=236.0
+home_score:146, away_score:34, n_x=12, n_y=3, p_x=0.4855072463768116, p_y=0.5588235294117647, a=2.1791044776119404, b=1.7894736842105263
+time_remaining=231.0
+home_score:148, away_score:34, n_x=12, n_y=3, p_x=0.4892086330935252, p_y=0.5588235294117647, a=2.176470588235294, b=1.7894736842105263
+time_remaining=209.0
+home_score:148, away_score:34, n_x=11, n_y=3, p_x=0.4892086330935252, p_y=0.5428571428571428, a=2.176470588235294, b=1.7894736842105263
+time_remaining=208.0
+home_score:148, away_score:34, n_x=11, n_y=3, p_x=0.4892086330935252, p_y=0.5428571428571428, a=2.176470588235294, b=1.7894736842105263
+time_remaining=202.0
+home_score:151, away_score:34, n_x=11, n_y=3, p_x=0.4928571428571429, p_y=0.5428571428571428, a=2.1884057971014492, b=1.7894736842105263
+time_remaining=196.0
+home_score:151, away_score:34, n_x=10, n_y=3, p_x=0.4928571428571429, p_y=0.5277777777777778, a=2.1884057971014492, b=1.7894736842105263
+time_remaining=195.0
+home_score:151, away_score:34, n_x=10, n_y=3, p_x=0.4928571428571429, p_y=0.5277777777777778, a=2.1884057971014492, b=1.7894736842105263
+time_remaining=176.0
+home_score:154, away_score:34, n_x=9, n_y=2, p_x=0.49645390070921985, p_y=0.5277777777777778, a=2.2, b=1.7894736842105263
+time_remaining=164.0
+home_score:154, away_score:34, n_x=9, n_y=2, p_x=0.49645390070921985, p_y=0.5277777777777778, a=2.2, b=1.7894736842105263
+time_remaining=156.0
+home_score:157, away_score:34, n_x=8, n_y=2, p_x=0.5, p_y=0.5277777777777778, a=2.211267605633803, b=1.7894736842105263
+time_remaining=148.0
+home_score:160, away_score:34, n_x=8, n_y=2, p_x=0.5034965034965035, p_y=0.5277777777777778, a=2.2222222222222223, b=1.7894736842105263
+time_remaining=132.0
+home_score:163, away_score:34, n_x=7, n_y=2, p_x=0.5069444444444444, p_y=0.5277777777777778, a=2.232876712328767, b=1.7894736842105263
+time_remaining=130.0
+home_score:163, away_score:34, n_x=7, n_y=2, p_x=0.5069444444444444, p_y=0.5277777777777778, a=2.232876712328767, b=1.7894736842105263
+time_remaining=126.0
+home_score:163, away_score:34, n_x=7, n_y=2, p_x=0.5069444444444444, p_y=0.5277777777777778, a=2.232876712328767, b=1.7894736842105263
+time_remaining=118.0
+home_score:163, away_score:34, n_x=6, n_y=2, p_x=0.5069444444444444, p_y=0.5277777777777778, a=2.232876712328767, b=1.7894736842105263
+time_remaining=117.0
+home_score:163, away_score:34, n_x=6, n_y=2, p_x=0.5069444444444444, p_y=0.5277777777777778, a=2.232876712328767, b=1.7894736842105263
+time_remaining=101.0
+home_score:163, away_score:34, n_x=5, n_y=1, p_x=0.503448275862069, p_y=0.5277777777777778, a=2.232876712328767, b=1.7894736842105263
+time_remaining=100.0
+home_score:163, away_score:34, n_x=5, n_y=1, p_x=0.503448275862069, p_y=0.5277777777777778, a=2.232876712328767, b=1.7894736842105263
+time_remaining=85.0
+home_score:163, away_score:34, n_x=4, n_y=1, p_x=0.503448275862069, p_y=0.5277777777777778, a=2.232876712328767, b=1.7894736842105263
+time_remaining=65.0
+home_score:163, away_score:34, n_x=3, n_y=1, p_x=0.5, p_y=0.5277777777777778, a=2.232876712328767, b=1.7894736842105263
+time_remaining=64.0
+home_score:163, away_score:34, n_x=3, n_y=1, p_x=0.5, p_y=0.5277777777777778, a=2.232876712328767, b=1.7894736842105263
+time_remaining=59.0
+home_score:166, away_score:34, n_x=3, n_y=1, p_x=0.5034013605442177, p_y=0.5277777777777778, a=2.2432432432432434, b=1.7894736842105263
+time_remaining=54.0
+home_score:166, away_score:34, n_x=3, n_y=1, p_x=0.5034013605442177, p_y=0.5277777777777778, a=2.2432432432432434, b=1.7894736842105263
+time_remaining=53.0
+home_score:166, away_score:34, n_x=3, n_y=1, p_x=0.5034013605442177, p_y=0.5277777777777778, a=2.2432432432432434, b=1.7894736842105263
+time_remaining=43.0
+home_score:166, away_score:34, n_x=2, n_y=1, p_x=0.5034013605442177, p_y=0.5135135135135135, a=2.2432432432432434, b=1.7894736842105263
+time_remaining=42.0
+home_score:166, away_score:34, n_x=2, n_y=1, p_x=0.5034013605442177, p_y=0.5135135135135135, a=2.2432432432432434, b=1.7894736842105263
+time_remaining=41.0
+home_score:166, away_score:34, n_x=2, n_y=1, p_x=0.5034013605442177, p_y=0.5135135135135135, a=2.2432432432432434, b=1.7894736842105263
+time_remaining=33.0
+home_score:168, away_score:34, n_x=2, n_y=0, p_x=0.5067567567567568, p_y=0.5135135135135135, a=2.24, b=1.7894736842105263
+time_remaining=0.0

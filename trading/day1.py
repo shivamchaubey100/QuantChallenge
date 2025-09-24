@@ -310,7 +310,7 @@ class BinomialStrategy:
         home_team_shots_made=0,
         away_team_shots_made=0,
         home_team_score=0,
-        away_team_score=0,
+        away_team_score=0
     ):
     
         self.home_team_prob = (
@@ -342,6 +342,7 @@ class BinomialStrategy:
         self.away_team_future_attempt = self._compute_future_attempts(
             time_spent, time_remaining, away_team_attempted
         )
+        
 
     def _compute_future_attempts(self, time_spent: float, time_remaining: float, attempts_so_far: int) -> int:
       
@@ -362,7 +363,7 @@ class BinomialStrategy:
         away_team_attempted: int,
         away_team_shots_made: int,
         home_team_score: int,
-        away_team_score: int,
+        away_team_score: int
     ):
       
         self.home_team_prob = (
@@ -385,6 +386,7 @@ class BinomialStrategy:
         self.away_team_future_attempt = self._compute_future_attempts(
             time_spent, time_remaining, away_team_attempted
         )
+
 
     def home_team_win_prob(self, home_team_score: int, away_team_score: int) -> float:
         """
@@ -457,6 +459,7 @@ class BinomialStrategy:
 
             prob += px * prob_y
 
+        print(f"home_score:{home_team_score}, away_score:{away_team_score}, n_x={n_x}, n_y={n_y}, p_x={p_x}, p_y={p_y}, a={a}, b={b}")
         # clamp numerical rounding
         return float(min(1.0, max(0.0, prob)))
 
@@ -717,11 +720,11 @@ class Strategy:
 
 # import sys
 # import numpy as np
-# sys.stdout = open("output.txt", "w")
+# sys.stdout = open("output_trial.txt", "w")
 
 # import json
 
-# file = r"example-game.json"
+# file = r"game_2.json"
 # with open(file, 'r') as f:
 #     example_game = json.load(f)
 
