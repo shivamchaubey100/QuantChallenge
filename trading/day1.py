@@ -304,7 +304,8 @@ class Portfolio:
 
 # theoretical price calculation
 import numpy as np
-from scipy.stats import binom
+import numpy as np
+import math
 
 class BinomialStrategy:
     def _init_(
@@ -393,53 +394,78 @@ class BinomialStrategy:
         )
 
     def home_team_win_prob(self, home_team_score: int, away_team_score: int) -> float:
-      
+        """
+        Compute probability that a*X + score_diff > b*Y,
+        where X ~ Binomial(n_x, p_x), Y ~ Binomial(n_y, p_y),
+        a = average_score_home_team, b = average_score_away_team,
+        n_x = home_team_future_attempt, n_y = away_team_future_attempt.
+
+        This implementation uses numpy for PMF/CDF calculations.
+        """
         p_x = float(self.home_team_prob)
         p_y = float(self.away_team_prob)
         a = float(self.average_score_home_team)
         b = float(self.average_score_away_team)
 
-    
         n_x = int(max(0, self.home_team_future_attempt))
         n_y = int(max(0, self.away_team_future_attempt))
 
         score_diff = int(home_team_score) - int(away_team_score)
-       
+
+        # quick deterministic cases (no future attempts)
         if n_x == 0 and n_y == 0:
             return 1.0 if score_diff > 0 else 0.0
 
-        
         eps = 1e-12
-
         prob = 0.0
 
-       
-        for x in range(n_x + 1):
-            px = binom.pmf(x, n_x, p_x)
+        # Precompute PMF and CDF for Y once using numpy arrays (if n_y > 0)
+        if n_y > 0:
+            k_y = np.arange(0, n_y + 1)
+            # compute combinatorial coefficients using math.comb in a vectorized list
+            combs_y = np.array([math.comb(n_y, k) for k in k_y], dtype=float)
+            pmf_y = combs_y * (p_y ** k_y) * ((1.0 - p_y) ** (n_y - k_y))
+            cdf_y = np.cumsum(pmf_y)  # cdf_y[j] = P(Y <= j)
+        else:
+            pmf_y = np.array([1.0])  # dummy
+            cdf_y = np.array([1.0])
 
-    
+        # Precompute PMF for X as an array
+        if n_x > 0:
+            k_x = np.arange(0, n_x + 1)
+            combs_x = np.array([math.comb(n_x, k) for k in k_x], dtype=float)
+            pmf_x = combs_x * (p_x ** k_x) * ((1.0 - p_x) ** (n_x - k_x))
+        else:
+            pmf_x = np.array([1.0])
+            k_x = np.array([0])
+
+        # Iterate over x values (vectorized arrays) and accumulate probability
+        for idx, x in enumerate(k_x):
+            px = float(pmf_x[idx])
+
             if abs(b) <= eps:
-                win_if_x = (a * x + score_diff) > 0
+                # If b is zero, condition reduces to a*x + score_diff > 0
+                win_if_x = (a * float(x) + score_diff) > 0
                 prob_y = 1.0 if win_if_x else 0.0
             else:
-                # We need Y < (a*x + score_diff)/b  (strict inequality).
-                # Because Y is integer, this is Y <= floor((a*x + score_diff - tiny)/b)
-                thresh = (a * x + score_diff) / b
-                # subtract a tiny epsilon to make the strict > behave correctly for integer boundaries
-                y_max = int(np.floor((a * x + score_diff - 1e-12) / b))
+                thresh = (a * float(x) + score_diff) / b
+                # strict inequality: Y < thresh  -> Y <= floor(thresh - tiny)
+                y_max = int(np.floor((thresh - 1e-12)))
 
                 if y_max < 0:
                     prob_y = 0.0
+                elif n_y == 0:
+                    # no future Y attempts: Y is always 0
+                    prob_y = 1.0 if y_max >= 0 else 0.0
                 elif y_max >= n_y:
                     prob_y = 1.0
                 else:
-                    prob_y = binom.cdf(y_max, n_y, p_y)
+                    prob_y = float(cdf_y[y_max])
 
             prob += px * prob_y
-        #print(f"P_X:{p_x}  ,    P_Y:{p_y},  A:{a},  B:{b},  NX:{n_x},   NY:{n_y},   score_diff:{score_diff}\n")
-       
-        return float(min(1.0, max(0.0, prob)))
 
+        # clamp numerical rounding
+        return float(min(1.0, max(0.0, prob)))
 
 class Strategy:
     """Template for a strategy."""
@@ -653,17 +679,17 @@ class Strategy:
 # ob.update_level(Side.SELL, 102, 20)
 # print(ob)
 
-import sys
-import numpy as np
-sys.stdout = open("output.txt", "w")
+# import sys
+# import numpy as np
+# sys.stdout = open("output.txt", "w")
 
-import json
+# import json
 
-file = r"example-game.json"
-with open(file, 'r') as f:
-    example_game = json.load(f)
+# file = r"example-game.json"
+# with open(file, 'r') as f:
+#     example_game = json.load(f)
 
-strat = Strategy()
-for event in example_game:
-    strat.on_game_event_update(**event)
-sys.stdout.close()
+# strat = Strategy()
+# for event in example_game:
+#     strat.on_game_event_update(**event)
+# sys.stdout.close()
