@@ -137,10 +137,12 @@ class Game:
         etype = event["event_type"]
         self.time_remaining = event["time_seconds"]
 
+        if not self.init_time_set:
+            self.init_time=event["time_seconds"]
+            self.init_time_set=True
+
         if etype == "START_PERIOD":
-            if not self.init_time_set:
-                self.init_time=event["time_seconds"]
-                self.init_time_set=True
+            
             self.period += 1
         elif etype == "JUMP_BALL":
             self.possesion = event["home_away"]
@@ -406,62 +408,72 @@ class BinomialStrategy:
         n_y = int(max(0, self.away_team_future_attempt))
 
         score_diff = int(home_team_score) - int(away_team_score)
+        
+        home_team_final_score = a*p_x*n_x + home_team_score
 
-        # quick deterministic cases (no future attempts)
-        if n_x == 0 and n_y == 0:
-            return 1.0 if score_diff > 0 else 0.0
+        away_team_final_score = b*p_y*n_y + away_team_score
+        
+        final_score_diff = home_team_final_score - away_team_final_score
+        
+        
 
-        eps = 1e-12
-        prob = 0.0
+        # # quick deterministic cases (no future attempts)
+        # if n_x == 0 and n_y == 0:
+        #     return 1.0 if score_diff > 0 else 0.0
+
+        # eps = 1e-12
+        # prob = 0.0
 
         # Precompute PMF and CDF for Y once using numpy arrays (if n_y > 0)
-        if n_y > 0:
-            k_y = np.arange(0, n_y + 1)
-            # compute combinatorial coefficients using math.comb in a vectorized list
-            combs_y = np.array([math.comb(n_y, k) for k in k_y], dtype=float)
-            pmf_y = combs_y * (p_y ** k_y) * ((1.0 - p_y) ** (n_y - k_y))
-            cdf_y = np.cumsum(pmf_y)  # cdf_y[j] = P(Y <= j)
-        else:
-            pmf_y = np.array([1.0])  # dummy
-            cdf_y = np.array([1.0])
+        # if n_y > 0:
+        #     k_y = np.arange(0, n_y + 1)
+        #     # compute combinatorial coefficients using math.comb in a vectorized list
+        #     combs_y = np.array([math.comb(n_y, k) for k in k_y], dtype=float)
+        #     pmf_y = combs_y * (p_y ** k_y) * ((1.0 - p_y) ** (n_y - k_y))
+        #     cdf_y = np.cumsum(pmf_y)  # cdf_y[j] = P(Y <= j)
+        # else:
+        #     pmf_y = np.array([1.0])  # dummy
+        #     cdf_y = np.array([1.0])
 
-        # Precompute PMF for X as an array
-        if n_x > 0:
-            k_x = np.arange(0, n_x + 1)
-            combs_x = np.array([math.comb(n_x, k) for k in k_x], dtype=float)
-            pmf_x = combs_x * (p_x ** k_x) * ((1.0 - p_x) ** (n_x - k_x))
-        else:
-            pmf_x = np.array([1.0])
-            k_x = np.array([0])
+        # # Precompute PMF for X as an array
+        # if n_x > 0:
+        #     k_x = np.arange(0, n_x + 1)
+        #     combs_x = np.array([math.comb(n_x, k) for k in k_x], dtype=float)
+        #     pmf_x = combs_x * (p_x ** k_x) * ((1.0 - p_x) ** (n_x - k_x))
+        # else:
+        #     pmf_x = np.array([1.0])
+        #     k_x = np.array([0])
 
-        # Iterate over x values (vectorized arrays) and accumulate probability
-        for idx, x in enumerate(k_x):
-            px = float(pmf_x[idx])
+        # # Iterate over x values (vectorized arrays) and accumulate probability
+        # for idx, x in enumerate(k_x):
+        #     px = float(pmf_x[idx])
 
-            if abs(b) <= eps:
-                # If b is zero, condition reduces to a*x + score_diff > 0
-                win_if_x = (a * float(x) + score_diff) > 0
-                prob_y = 1.0 if win_if_x else 0.0
-            else:
-                thresh = (a * float(x) + score_diff) / b
-                # strict inequality: Y < thresh  -> Y <= floor(thresh - tiny)
-                y_max = int(np.floor((thresh - 1e-12)))
+        #     if abs(b) <= eps:
+        #         # If b is zero, condition reduces to a*x + score_diff > 0
+        #         win_if_x = (a * float(x) + score_diff) > 0
+        #         prob_y = 1.0 if win_if_x else 0.0
+        #     else:
+        #         thresh = (a * float(x) + score_diff) / b
+        #         # strict inequality: Y < thresh  -> Y <= floor(thresh - tiny)
+        #         y_max = int(np.floor((thresh - 1e-12)))
 
-                if y_max < 0:
-                    prob_y = 0.0
-                elif n_y == 0:
-                    # no future Y attempts: Y is always 0
-                    prob_y = 1.0 if y_max >= 0 else 0.0
-                elif y_max >= n_y:
-                    prob_y = 1.0
-                else:
-                    prob_y = float(cdf_y[y_max])
+        #         if y_max < 0:
+        #             prob_y = 0.0
+        #         elif n_y == 0:
+        #             # no future Y attempts: Y is always 0
+        #             prob_y = 1.0 if y_max >= 0 else 0.0
+        #         elif y_max >= n_y:
+        #             prob_y = 1.0
+        #         else:
+        #             prob_y = float(cdf_y[y_max])
 
-            prob += px * prob_y
+        #     prob += px * prob_y
 
         print(f"home_score:{home_team_score}, away_score:{away_team_score}, n_x={n_x}, n_y={n_y}, p_x={p_x}, p_y={p_y}, a={a}, b={b}")
         # clamp numerical rounding
-        return float(min(1.0, max(0.0, prob)))
+        # return float(min(1.0, max(0.0, prob)))
+
+        return final_score_diff
 
 class Strategy:
     """Template for a strategy."""
@@ -604,6 +616,67 @@ class Strategy:
                     place_limit_order(Side.SELL,Ticker.TEAM_A,1,best_ask-1)
         return 
 
+    from typing import List, Dict
+
+    def execute_arbitrage(self, orderbook, price_cap: float = 100.0):    
+        trades = []
+        if not hasattr(orderbook, "bids") or not hasattr(orderbook, "asks"):
+           return trades
+
+        bids = orderbook.bids   
+        asks = orderbook.asks  
+       
+        i = 0 
+        j = 0  
+     
+        local_bids = [{"price": float(b.price), "remaining": float(b.quantity)} for b in bids]
+        local_asks = [{"price": float(a.price), "remaining": float(a.quantity)} for a in asks]
+
+        while i < len(local_bids) and j < len(local_asks):
+            bid = local_bids[i]
+            ask = local_asks[j]
+
+            bid_price = bid["price"]
+            ask_price = ask["price"]
+            bid_rem = bid["remaining"]
+            ask_rem = ask["remaining"]
+      
+            if bid_rem <= 0:
+                i += 1
+                continue
+            if ask_rem <= 0:
+                j += 1
+                continue       
+            if (bid_price + ask_price) >= price_cap:
+                i += 1
+                continue
+
+            match_qty = min(bid_rem, ask_rem)
+            if match_qty <= 0:
+                if bid_rem <= 0:
+                    i += 1
+                if ask_rem <= 0:
+                    j += 1
+                continue        
+            buy_order_id = place_limit_order(Side.BUY, Ticker.TEAM_A, match_qty, ask_price, ioc=True)       
+            sell_order_id = place_limit_order(Side.SELL, Ticker.TEAM_A, match_qty, bid_price, ioc=True)        
+            trades.append({
+                "bid_index": i,
+                "ask_index": j,
+                "qty": match_qty,
+                "buy_order_id": buy_order_id,
+                "sell_order_id": sell_order_id,
+                "buy_price": ask_price,
+                "sell_price": bid_price
+            })
+            bid["remaining"] -= match_qty
+            ask["remaining"] -= match_qty
+            
+            if bid["remaining"] <= 0:
+                i += 1
+            if ask["remaining"] <= 0:
+                j += 1
+        return trades
     
     def on_game_event_update(self,
                            event_type: str,
@@ -674,21 +747,31 @@ class Strategy:
                                      shots_made_away,
                                      self.game.home.points,
                                      self.game.away.points)
-        estimate=100*self.binom_strat.home_team_win_prob(int(self.game.home.points),int(self.game.away.points))
+        estimate= self.binom_strat.home_team_win_prob(int(self.game.home.points),int(self.game.away.points))
         threshold=5
-        confidence=10
-        print(f'{time_seconds}::{event_type} {home_score} - {away_score}::Estimate::{estimate}')
-        self.trade_binom(estimate,threshold,confidence)
+        # confidence=10
+        # print(f'{time_seconds}::{event_type} {home_score} - {away_score}::Estimate::{estimate}')
+        # self.trade_binom(estimate,threshold,confidence)
+        print(f"time_remaining={time_seconds}")
+
+        if(time_seconds < 800):
+            if(estimate > 0):
+                place_market_order(Side.BUY,Ticker.TEAM_A,1000)
+            
+            else:
+                place_market_order(Side.SELL,Ticker.TEAM_A,1000)
+        # else:
+        #     self.execute_arbitrage(self.ob, 100.0)
         # if self.ob.bids and self.ob.bids[0].price>estimate+threshold:
         #     best_bid_price = self.ob.bids[0].price
         #     best_bid_volume = self.ob.bids[0].quantity
-        #     place_market_order(Side.SELL,Ticker.TEAM_A,1)
+        #     place_market_order(Side.SELL,Ticker.TEAM_A,10)
         #     print("------------------------------------\n")
         #     print(f'Sell order placed at price = {best_bid_price}, volume = {1}\n')
-        # elif self.ob.asks and self.ob.asks[0].price<estimate-threshold:
+        # if self.ob.asks and self.ob.asks[0].price<estimate-threshold:
         #     best_ask_price= self.ob.asks[0].price
         #     best_ask_volume=self.ob.asks[0].quantity
-        #     place_market_order(Side.BUY,Ticker.TEAM_A,1)
+        #     place_market_order(Side.BUY,Ticker.TEAM_A,10)
         #     print("------------------------------------\n")
         #     print(f'Buy order placed at price = {best_ask_price}, volume = {1}\n') 
         # elif self.ob.bids and self.ob.asks:
@@ -720,11 +803,11 @@ class Strategy:
 
 # import sys
 # import numpy as np
-# sys.stdout = open("output_trial.txt", "w")
+# sys.stdout = open("round1_game3.txt", "w")
 
 # import json
 
-# file = r"game_2.json"
+# file = r"game3.json"
 # with open(file, 'r') as f:
 #     example_game = json.load(f)
 
